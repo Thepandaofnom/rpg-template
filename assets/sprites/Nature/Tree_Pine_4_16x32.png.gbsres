@@ -1,0 +1,155 @@
+{
+  "_resourceType": "sprite",
+  "id": "a5c70452-9e8d-45de-bb57-b0f9b7417d1e",
+  "name": "Nature/Tree_Pine_4_16x32",
+  "symbol": "sprite_nature_tree_pine_4_1",
+  "states": [
+    {
+      "id": "882823ec-817a-4600-8e16-eceb799df597",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "c8908119-71a4-4c9d-8cd1-02fcd970cb15",
+          "frames": [
+            {
+              "id": "49252c95-83fd-436c-9822-184de3169fc6",
+              "tiles": [
+                {
+                  "id": "9b58e269-5e8c-4055-a637-2dcc1d74ce8f",
+                  "x": 0,
+                  "y": 16,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "1e1d1373-ee9a-44f5-9253-4fac60ada43b",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 16,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "0c6edc7c-6fdc-4bf2-808a-1b7a2f7e021c",
+                  "x": 8,
+                  "y": 16,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "d8a07daa-a494-4aa3-b840-664c1db7489c",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 16,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "f3bb0492-c89b-4810-9242-4295c48f24d3",
+          "frames": [
+            {
+              "id": "cc8b72a5-5d1d-4e96-9906-dd811f69aa98",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e5a6605a-3e4d-4185-a310-166dd8b81e5a",
+          "frames": [
+            {
+              "id": "a2407ed6-0265-446c-a273-bdaf016d520f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d682d783-69ba-4e32-ba6a-eb8f2b6796a6",
+          "frames": [
+            {
+              "id": "f2047b49-18df-47c2-98f8-0566efdbbbc5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "35098528-9240-49f4-9c16-f5a7b0c9c71d",
+          "frames": [
+            {
+              "id": "8a25d8af-9601-4cab-8c2d-6fad6257666a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3480eedb-86e7-41a7-8b1f-3929aa7e3aa5",
+          "frames": [
+            {
+              "id": "a827969a-8669-472f-a133-d1f086d889b1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8b7bbbb5-d296-4d46-9ed8-d63ccdbdaf1d",
+          "frames": [
+            {
+              "id": "87d32397-2d14-4f25-8a5e-f333544c0efb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "32bef6cb-bc8b-4494-b076-f6a8a24bfbf2",
+          "frames": [
+            {
+              "id": "9d16a4a8-ae9a-4b93-86ff-6000a3d5482c",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 4,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Nature/Tree_Pine_4_16x32.png",
+  "width": 16,
+  "height": 32,
+  "checksum": "187dd33a0076e3748251cf754b954132c5a9e52b"
+}

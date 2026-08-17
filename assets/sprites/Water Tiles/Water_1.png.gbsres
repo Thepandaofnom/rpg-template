@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "9de5d0c1-5b18-4411-b1d7-945c87f4580e",
+  "name": "Water Tiles/Water_1",
+  "symbol": "sprite_water_tiles_water_1",
+  "states": [
+    {
+      "id": "5839dfc9-80f5-46f6-9690-a3e0413fe9df",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "d1300379-6606-49f7-9818-d29f00f61b2a",
+          "frames": [
+            {
+              "id": "9fdda690-6688-4627-a2b7-41bb0d396c12",
+              "tiles": [
+                {
+                  "id": "1fe35639-54b4-4800-a0fd-13adf23f20f0",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "ef5cbe00-ddac-4fa6-ab94-5fe620ee8b80",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "c36e3aa1-f86c-4707-b145-f2e855577072",
+          "frames": [
+            {
+              "id": "d8b99feb-785f-44cd-b0ec-d6b91c15dda7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b927e0ac-8b7f-4232-8381-236b7a8456b5",
+          "frames": [
+            {
+              "id": "6108abed-3305-47c2-a626-90d90b78c499",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a216c24b-50fd-463f-8f95-6a1516ba6cc3",
+          "frames": [
+            {
+              "id": "5bc78bc1-25a3-45c5-8938-d438157e3eec",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b8d742c5-c4c3-44e4-b7d6-4a074ef4d2c8",
+          "frames": [
+            {
+              "id": "cbb97917-72d2-459a-9fda-d65be278e69f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c38838e0-ba75-415c-84b1-8c54c7e95886",
+          "frames": [
+            {
+              "id": "ceced89c-1c74-4388-bf38-a4d5bf86798c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "787ca572-184d-4053-9a07-ced17952a216",
+          "frames": [
+            {
+              "id": "10c59097-6bf6-4592-a963-10ad48959168",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f049421d-7efb-4e62-a146-85f109271df1",
+          "frames": [
+            {
+              "id": "b1d025c8-20b9-4226-87ed-f1ca5628a592",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Water Tiles/Water_1.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "209be47f41d27b6678fcfbec8b7d5b93d41887cc"
+}

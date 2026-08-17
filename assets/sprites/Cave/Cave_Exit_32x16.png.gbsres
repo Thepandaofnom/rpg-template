@@ -1,0 +1,160 @@
+{
+  "_resourceType": "sprite",
+  "id": "183b7c00-feab-40ba-96af-6071761202f8",
+  "name": "Cave/Cave_Exit_32x16",
+  "symbol": "sprite_cave_cave_exit_32x16",
+  "states": [
+    {
+      "id": "2da4c912-3f94-4baa-aded-d494b4698f52",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "b4ec9335-53f6-4a07-ad6c-d5f649711d3d",
+          "frames": [
+            {
+              "id": "10f0656e-c0bd-453f-b7c3-cbaf3ec6dfa2",
+              "tiles": [
+                {
+                  "id": "8b9cd977-4f78-42c9-a94d-9c15def3faa7",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "268429ff-d81c-49b8-a578-f4e12ce479e1",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            },
+            {
+              "id": "5d777787-c8af-4757-a759-f0bbf7aa3765",
+              "tiles": [
+                {
+                  "id": "fc916774-fe47-4927-8266-6897a6dea48b",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 16,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "50b790aa-fa75-4b3a-9b3e-fd2621875177",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 24,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4f5c89b7-f763-4f53-8e3b-9dcea03feb3e",
+          "frames": [
+            {
+              "id": "74161ae6-5f42-4064-a02d-7fa8eb9d9dd6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "02bfd240-a639-46a4-8054-8e3daa556f7b",
+          "frames": [
+            {
+              "id": "5ad4c02c-7ccc-4912-b330-dc14a8ee7e3f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e191f087-aa90-4552-818c-77943d4494d2",
+          "frames": [
+            {
+              "id": "45df9003-c1fe-4d6b-bcbe-cf353c8b2060",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "05465f0e-f4af-4b21-a317-c9c3966fc750",
+          "frames": [
+            {
+              "id": "1107a22e-b1e7-4ebc-aaa2-1f66166f71f4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f018c5ac-4671-42e2-9798-4b95e64f3308",
+          "frames": [
+            {
+              "id": "90ece841-24ca-4f92-8107-a61d167d5a7f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3bb0186c-ac18-4926-8e78-4663d0c1bee3",
+          "frames": [
+            {
+              "id": "bbc4cd18-91e2-44ce-88b2-3cb505c77dbb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "cbf1b048-7c2d-48d6-ac93-336262505be0",
+          "frames": [
+            {
+              "id": "b842bbcf-829f-4e2e-bb01-badb4c571a89",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 4,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Cave/Cave_Exit_32x16.png",
+  "width": 32,
+  "height": 16,
+  "checksum": "722bf4c4e0803620ded78772ea99e224068aa978"
+}

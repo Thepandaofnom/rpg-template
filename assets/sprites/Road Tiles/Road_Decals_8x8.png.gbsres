@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "939d82b5-4e46-4a3d-87b9-6487a75294ae",
+  "name": "Road Tiles/Road_Decals_8x8",
+  "symbol": "sprite_road_tiles_road_deca",
+  "states": [
+    {
+      "id": "783c4516-e0a7-4cad-86cc-fd8fb130e2a7",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "458c6646-01d2-45df-8a55-f8b77daea20a",
+          "frames": [
+            {
+              "id": "70608305-24d0-483d-b0d7-1f0934f2238d",
+              "tiles": [
+                {
+                  "id": "6f08e848-d739-47ee-b2da-3c446c983b33",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "60a7df16-0d68-42ad-ac91-80e02246d94c",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6fb87c32-35bb-437c-abda-51b5ba0e32ef",
+          "frames": [
+            {
+              "id": "1af29010-8376-40be-a7a0-e5c3249a3085",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b441d0b9-89c8-48b9-b946-2d7d0e8af909",
+          "frames": [
+            {
+              "id": "5575af62-b176-4afd-81da-10e8e6141b54",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "937c74c9-85ee-44fc-8823-80c839db52d8",
+          "frames": [
+            {
+              "id": "f8f9d6c2-e684-4c39-aecd-0ff54d67ef4a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "96242376-7a04-4fff-b48c-758e0abaeb8a",
+          "frames": [
+            {
+              "id": "254034fa-dc22-4c48-947b-62f285037ea1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0d4b39e9-e7b0-4724-bb3d-4009ab97c7d3",
+          "frames": [
+            {
+              "id": "46cb35b9-b24f-407e-9108-e9cc607c2a8e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a94ed7c6-d146-4bc2-a87f-bdaa9140fcbc",
+          "frames": [
+            {
+              "id": "c61f89ae-e4dc-4cb6-82f8-aea45a90ce8b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6aeb0ebd-e175-46f4-adf1-02aefce62fdf",
+          "frames": [
+            {
+              "id": "f74b6382-de89-4930-a9de-83e92005171d",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Road Tiles/Road_Decals_8x8.png",
+  "width": 24,
+  "height": 16,
+  "checksum": "c450ed296a61cdf10f356b6a9bebfb03e914d408"
+}

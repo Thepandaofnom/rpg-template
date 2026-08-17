@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "747f86d0-7045-4f5f-969d-192836c3522b",
+  "name": "Nature/Tree_Pine_2_16x16",
+  "symbol": "sprite_nature_tree_pine_2_1",
+  "states": [
+    {
+      "id": "0c444b1c-96e8-4443-8c00-91bb2369985f",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "657efbcc-708a-4c48-8c5d-84f4cb3ea3f1",
+          "frames": [
+            {
+              "id": "056cfc1f-ab83-44e1-8ac6-207880bd1eaa",
+              "tiles": [
+                {
+                  "id": "fe025802-a7f5-4188-bb54-e55c97a12477",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "81e33887-c526-420a-a469-85dbec02c28d",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b00c2a88-b8f7-44a8-a38d-b029f8ff78f2",
+          "frames": [
+            {
+              "id": "f59e492e-a7c6-4b7a-a83f-86d0685ab612",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d3287634-a174-44f2-a77f-0ddab0ddfc08",
+          "frames": [
+            {
+              "id": "c65c08c7-4c7b-4209-8451-d0a0f6e69fc8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ddeaa619-eca0-49c6-a9d3-ad262d4e4249",
+          "frames": [
+            {
+              "id": "9794008d-8322-4d46-8f58-74802e6aca60",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ad16560b-78bf-4a6c-913a-cfeacf51367d",
+          "frames": [
+            {
+              "id": "997d80d2-1eb8-4712-a4d9-18cc7780cf28",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b61b57f1-4241-4c2e-b92b-f27ebd668d85",
+          "frames": [
+            {
+              "id": "1fcd418b-91ee-4277-acde-cf6586c47c62",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1a85d3ea-9b79-45fa-8fbe-6251b5aa2579",
+          "frames": [
+            {
+              "id": "dddd4001-ef1d-4405-b454-4fd92f91b781",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "23feabd5-beaa-4d40-a79c-bddc35557185",
+          "frames": [
+            {
+              "id": "e909dc2a-4fb9-4ac9-ad5a-80762c2e5a6b",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Nature/Tree_Pine_2_16x16.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "88df8568fc9e1d784ded3d10c36ae7f94d26157e"
+}

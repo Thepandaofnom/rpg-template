@@ -1,0 +1,102 @@
+{
+  "_resourceType": "sprite",
+  "id": "46fa68fc-5544-4f25-9930-d3475f78d41e",
+  "name": "Water Tiles/Water_1_Sand_1_Outer_16x16",
+  "symbol": "sprite_water_tiles_water_1_",
+  "states": [
+    {
+      "id": "98fd1ad8-5924-4de2-b84d-c85aec6fbf5c",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "bdf48d27-43d4-42fa-81bd-bb94c0db12d4",
+          "frames": [
+            {
+              "id": "4e42985d-5a59-4455-af78-2a7541ea282d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "573fff3b-f78f-425f-86dc-0785ac51b606",
+          "frames": [
+            {
+              "id": "34650f4d-30e5-4777-acdc-4474ef11db25",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "df0ef8cf-a784-4b99-a585-c30dd4874a3a",
+          "frames": [
+            {
+              "id": "e42c5759-d39d-48e3-8b27-d533dfec27ce",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f3c8d425-18b0-43a4-b9d3-b83705bae3e6",
+          "frames": [
+            {
+              "id": "edd422ac-74d0-4399-bab2-3b55547fbdac",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "77657ca8-ce54-42ba-bf3e-9678617185c1",
+          "frames": [
+            {
+              "id": "5f0626a4-72da-4d72-9a21-30b94d426bce",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "baacd921-8ad6-4466-a955-d374799d5811",
+          "frames": [
+            {
+              "id": "acac1c2d-dd2c-472c-b858-63e07cff43d9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ec1bb2a6-82fa-4c8d-bab4-4f683665fedf",
+          "frames": [
+            {
+              "id": "f636a0ce-d2cc-46a9-ab28-7df699664071",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7f900c67-f69e-4b53-9af1-48cee4b8aadc",
+          "frames": [
+            {
+              "id": "934ddf17-1848-4c9f-a305-52c955856c12",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Water Tiles/Water_1_Sand_1_Outer_16x16.png",
+  "width": 48,
+  "height": 48,
+  "checksum": "ef2a411ab0f4cdecfcabf3d78e095a7b3618ea86"
+}

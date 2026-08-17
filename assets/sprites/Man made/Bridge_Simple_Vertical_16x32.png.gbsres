@@ -1,0 +1,102 @@
+{
+  "_resourceType": "sprite",
+  "id": "93fb2304-afe9-4d5b-b7d9-0b995b52d493",
+  "name": "Man made/Bridge_Simple_Vertical_16x32",
+  "symbol": "sprite_man_made_bridge_simp_0",
+  "states": [
+    {
+      "id": "35717fc8-59d7-463c-94f6-721ffe4c6edb",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "58d73faf-a020-4107-ab2e-cadee7e1a9e4",
+          "frames": [
+            {
+              "id": "fbb9cb4b-8477-4ceb-97de-46769b8e9ee2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "617c93bf-ace7-4f9b-abfb-293e21b9a7b4",
+          "frames": [
+            {
+              "id": "aa5d9052-71a5-4b30-b5e0-e5e97cbb257f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d7d87db9-75ca-4a0d-9b26-6ced236ce27d",
+          "frames": [
+            {
+              "id": "0a8ce545-9efe-4c3e-99e3-53f2c3a04ef8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2e0e0dc6-1e4f-4b06-a829-762435659c33",
+          "frames": [
+            {
+              "id": "9090458e-a0c9-46fa-97b7-e70c1d5fcf51",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1568f643-cbf6-46b5-90e2-3a5e9f99c619",
+          "frames": [
+            {
+              "id": "4be13402-4460-414e-b439-7c5722764d25",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "75732f15-a6f8-4e1a-b7c3-874b300f34b7",
+          "frames": [
+            {
+              "id": "31db4776-3dcc-4d23-8210-dca728324d9e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7ceca1d9-6f9f-46e7-a932-bbf149dfcd92",
+          "frames": [
+            {
+              "id": "720e6489-8fe9-4371-bae9-81dcc739125f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "898c9a37-8950-44d5-9ae2-66c071eecdf2",
+          "frames": [
+            {
+              "id": "e6ccb65d-ee51-49b2-973b-0d1cf489bd2c",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Man made/Bridge_Simple_Vertical_16x32.png",
+  "width": 16,
+  "height": 32,
+  "checksum": "327b704b4a28e12f4277adf3b4f526c813ed9a5a"
+}

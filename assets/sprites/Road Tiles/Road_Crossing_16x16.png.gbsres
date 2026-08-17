@@ -1,0 +1,102 @@
+{
+  "_resourceType": "sprite",
+  "id": "b5f57b03-1b36-47c2-867c-8a23bb91ed72",
+  "name": "Road Tiles/Road_Crossing_16x16",
+  "symbol": "sprite_road_tiles_road_cros",
+  "states": [
+    {
+      "id": "4c54fd20-9379-4315-be0a-803cf428b889",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "5c42ecfc-b32c-4516-a5db-b8eb85be8397",
+          "frames": [
+            {
+              "id": "984f83a3-9249-4085-b23e-787452384833",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "79a3deca-f00e-4bce-b9d2-6bc8995df61b",
+          "frames": [
+            {
+              "id": "3e8c20b4-102b-4473-8173-21e4a7765ace",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ec437bd8-067a-4915-b74e-b98cbf7deefe",
+          "frames": [
+            {
+              "id": "d3fa8659-e709-4b7c-9ec6-2353416bada3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ef39ecc6-8fee-4526-9387-c21b08c66f89",
+          "frames": [
+            {
+              "id": "6dff8e18-b444-4cd5-8fd9-66c70376e821",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "13c897c2-f6d1-4903-b28a-99440be9193f",
+          "frames": [
+            {
+              "id": "c196bd7d-0111-4feb-970c-a3622eb3eb9c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "eb559566-19c8-40a6-8339-10490e98343f",
+          "frames": [
+            {
+              "id": "2fa50ade-df06-4fc2-ac7a-14147d4d20bb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2e379c74-2034-4b06-b624-ecdad295b4c4",
+          "frames": [
+            {
+              "id": "a6a7cef0-43a4-46e7-beea-26c8174a2460",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f2ecd4ba-ffe0-4262-af99-462878018d90",
+          "frames": [
+            {
+              "id": "2be5beb2-5d7a-4bdd-adcc-ca05bc8d28a7",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Road Tiles/Road_Crossing_16x16.png",
+  "width": 32,
+  "height": 32,
+  "checksum": "0a0d1eec48864b6ad87888112e2701dd1c544d24"
+}

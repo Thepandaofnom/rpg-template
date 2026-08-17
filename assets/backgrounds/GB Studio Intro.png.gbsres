@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "fe5c5e01-3298-4a5f-953f-48b882d51e3a",
+  "name": "GB Studio Intro",
+  "symbol": "bg_0_game_clear_image_copy",
+  "tileColors": "00211+012+003a+012+001e9+",
+  "filename": "GB Studio Intro.png",
+  "width": 60,
+  "height": 18,
+  "imageWidth": 480,
+  "imageHeight": 144,
+  "autoColor": false
+}

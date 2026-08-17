@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "c4f5ef03-9174-4ac1-a885-b2b6fc65451a",
+  "name": "Cave/Cave_Strairs_Down_16x16",
+  "symbol": "sprite_cave_cave_strairs_do",
+  "states": [
+    {
+      "id": "5f535f00-db4e-4445-b7b0-66dd28474b3f",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "66f0cf3f-9c0e-4961-8f63-f3d6f1ea9efa",
+          "frames": [
+            {
+              "id": "623fb7ad-3609-4e25-a4fa-283b9c77dca4",
+              "tiles": [
+                {
+                  "id": "f0676dc3-565a-48dd-abe0-c669685c3bd8",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "e049d0d8-a68e-47dc-a01d-47a1851d5c0d",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "e3fd1543-4b53-4fcc-ab42-d4e11af7b26a",
+          "frames": [
+            {
+              "id": "09cdc603-d33e-4795-b2d9-ca7d3ef85fe8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "69b7393d-6909-49bb-9dc7-6c4d4cf5ae68",
+          "frames": [
+            {
+              "id": "dd8c0cbe-ace9-498b-b048-69922416c360",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "15106e19-43bb-4baf-9453-76c4feb6db16",
+          "frames": [
+            {
+              "id": "bb7e11c5-a907-4539-b3ec-058221ab4498",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "628f3d79-a52c-4c1e-bfca-dade66d14c4a",
+          "frames": [
+            {
+              "id": "ac703ded-d64c-4d68-85c4-2e0c2c75fb39",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f39fcacb-d1d9-43b5-a456-895fc72efe8f",
+          "frames": [
+            {
+              "id": "5b14d4b5-5e4c-40cb-bfa7-3e3875b004ea",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3fdd6db1-9a5f-458f-a3e9-077e33d12ce6",
+          "frames": [
+            {
+              "id": "7cc1b78a-b5f2-49f8-abca-9cbeacda8543",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "58c0f0b7-d35d-4f87-a603-6889e80bf879",
+          "frames": [
+            {
+              "id": "5ebbcf09-75ba-4aa4-a83d-933b4e0b235f",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Cave/Cave_Strairs_Down_16x16.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "30a29dc242e9885a11280cab4148268911380aab"
+}

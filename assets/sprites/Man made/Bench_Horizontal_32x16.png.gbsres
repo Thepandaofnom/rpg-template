@@ -1,0 +1,160 @@
+{
+  "_resourceType": "sprite",
+  "id": "1a88a9cf-0815-4ba8-8f03-8bf96d907abf",
+  "name": "Man made/Bench_Horizontal_32x16",
+  "symbol": "sprite_man_made_bench_horiz",
+  "states": [
+    {
+      "id": "e7a73979-e8e4-400b-91d7-3a683a122fcd",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "392c1e14-0040-4ae3-ae28-abdcd9b367cc",
+          "frames": [
+            {
+              "id": "21d2d197-202d-4def-a2c4-51a6dc65eeb8",
+              "tiles": [
+                {
+                  "id": "47c791d1-4cdd-4f1d-8317-fc8fafcb25a8",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "325ea1f9-ebd2-4327-985f-856683d24c7d",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            },
+            {
+              "id": "b7d8050a-c831-49bf-8d46-d507cc92f9f7",
+              "tiles": [
+                {
+                  "id": "a37a137f-0940-4884-81ac-ae274f04495e",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 16,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "d1bc65fe-adc4-4f4f-a9f3-7aebd6791785",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 24,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "506beb94-6468-4eb1-a977-898cd3fb1384",
+          "frames": [
+            {
+              "id": "fc605620-ff7f-4b2d-907a-427bd5599154",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "15fdb3a2-b1a4-484c-9542-46294d980ba4",
+          "frames": [
+            {
+              "id": "35c69160-bf78-4d03-958b-950a77bdcd94",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5afb2cc9-d139-4908-b801-404b8c227e69",
+          "frames": [
+            {
+              "id": "f780de1c-fba8-495a-b78d-a5e3b44a40f9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "02660604-5ded-44bc-a79e-1db346ffb66c",
+          "frames": [
+            {
+              "id": "8d411fce-9590-4336-be9e-61ba5e224f80",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "82871f2a-c900-45e9-9551-3db6d08d3204",
+          "frames": [
+            {
+              "id": "17a4d166-f6dc-49b5-99a9-8c8736c23d8d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6405904f-2869-4c28-bae0-07f77a49b6e5",
+          "frames": [
+            {
+              "id": "3c47facf-67f8-4e83-aa4c-f968ebbcf352",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "629aec03-1584-4c47-a435-c3002786f5b3",
+          "frames": [
+            {
+              "id": "9bf624c8-a318-4a94-82b0-e99af2f1ab3b",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 4,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Man made/Bench_Horizontal_32x16.png",
+  "width": 32,
+  "height": 16,
+  "checksum": "007a6bf1ec9fbb7514676e9a3dc899bbb9d94000"
+}

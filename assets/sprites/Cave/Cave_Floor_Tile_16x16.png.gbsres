@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "760de533-b3af-43f7-b626-4831c0f95cc4",
+  "name": "Cave/Cave_Floor_Tile_16x16",
+  "symbol": "sprite_cave_cave_floor_tile",
+  "states": [
+    {
+      "id": "456e742f-f6a7-4f08-aa43-72dd92548121",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "3573fcfa-907e-4a64-9e99-e5489446398e",
+          "frames": [
+            {
+              "id": "983d2817-2057-4208-a91f-6e579ab022f2",
+              "tiles": [
+                {
+                  "id": "f6416ada-371a-4d0a-ad4c-3e9dc11cbbaa",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "cdb16e32-63ab-49f0-8ca7-6fb71f7dc945",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8aac8c47-1521-4659-bd8c-4a546a024795",
+          "frames": [
+            {
+              "id": "5f1646e4-f3a0-4261-8d16-97b140d78f3f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9afcb30b-350c-4d42-9ce7-e35dc631517f",
+          "frames": [
+            {
+              "id": "fc61c600-cdc6-4feb-a231-1ec1813cc321",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bcd482ed-f307-4de8-89b1-d02e2adc0dae",
+          "frames": [
+            {
+              "id": "d6b121f1-66c1-4505-9f69-ec55a006616d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "515b699a-27eb-49ac-be2b-44e91ce0a665",
+          "frames": [
+            {
+              "id": "5b5694e5-58a8-4a80-9e67-35611699f662",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f98584e2-d6f9-4d8f-8e7d-a019768c9f66",
+          "frames": [
+            {
+              "id": "bc5cbaee-a9da-4863-88e1-5e86d503dad5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b140bf54-772a-4937-a826-e0aee4dd92f3",
+          "frames": [
+            {
+              "id": "0445a571-9833-4dc6-9656-e9dc89e24dc7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "76bb6a92-84e3-48ad-8483-0c806d409a44",
+          "frames": [
+            {
+              "id": "97eed066-0c2c-4d7a-9455-45341015d9dd",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Cave/Cave_Floor_Tile_16x16.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "e7cf21d56227c5bfe4c7de76115e727782e07a7c"
+}

@@ -1,0 +1,160 @@
+{
+  "_resourceType": "sprite",
+  "id": "ede3f1ed-5893-4b82-978e-9196aff16168",
+  "name": "Nature/Grass_Tall_16x16",
+  "symbol": "sprite_nature_grass_tall_16",
+  "states": [
+    {
+      "id": "6e8526b2-8061-42a3-a95c-dd1baaeeb52d",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "80d8dc92-f43a-482f-95bb-542c630d415c",
+          "frames": [
+            {
+              "id": "2ac584a9-806a-45ab-a45b-19cc55e35dee",
+              "tiles": [
+                {
+                  "id": "df402292-48ac-4356-a242-0ff43a9773ed",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "33015037-8292-406e-8103-7130170001b4",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            },
+            {
+              "id": "ac160a72-6967-47cd-abf4-b8e1f3df8afc",
+              "tiles": [
+                {
+                  "id": "e85a897f-b96b-4fe2-9f8a-e87b7b28cbc4",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 16,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "8dea4683-8390-4b23-af1f-5c97d3fa352c",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 24,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "55d39118-d6e6-4334-b2df-4c32bfa4c716",
+          "frames": [
+            {
+              "id": "e68ac660-770f-4e99-8361-a9d9991e8d7d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "200c05fb-0d7b-432b-842d-f9c4cdb102ed",
+          "frames": [
+            {
+              "id": "63597cd4-ec25-471b-a461-e029b6cf8c51",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fa549c0b-39c5-4985-aa99-e1bf56a8d75c",
+          "frames": [
+            {
+              "id": "48b20075-6fd4-4719-aa07-b60f319f2650",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d4555137-4c58-4f40-9e82-2b7ebfbed069",
+          "frames": [
+            {
+              "id": "8114fad4-e5d0-40c8-b168-3b6b7063d810",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "04cfca58-3466-48b8-8f8d-d2f5dd8db44f",
+          "frames": [
+            {
+              "id": "de82ade3-8f6f-46aa-893e-495dcb5cf3f4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1c519008-edfb-4fe2-86d0-39bd6ffe1716",
+          "frames": [
+            {
+              "id": "a0526fbb-17f9-4eae-9107-10c99b50f7c2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4cfb492b-0404-4844-b647-a5a57f780847",
+          "frames": [
+            {
+              "id": "c2e25e21-8177-4d2a-bc19-818de7426896",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 4,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Nature/Grass_Tall_16x16.png",
+  "width": 32,
+  "height": 16,
+  "checksum": "799cb896b0c23544efc9887618e57990a3275200"
+}

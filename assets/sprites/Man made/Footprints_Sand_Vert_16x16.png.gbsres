@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "a2074cfe-ba13-472b-875a-f214e03c6289",
+  "name": "Man made/Footprints_Sand_Vert_16x16",
+  "symbol": "sprite_man_made_footprints__0",
+  "states": [
+    {
+      "id": "dd947a00-4e24-4641-91e9-c0c8eae6774c",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "ea00d06b-4bba-4615-984d-26c1c2e8a770",
+          "frames": [
+            {
+              "id": "beafe86e-df65-47b0-b2b0-0569444e860d",
+              "tiles": [
+                {
+                  "id": "70654f1a-18e3-4280-b480-b3be0e79a978",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "3c7d143d-6ed2-4d48-b94b-1c97cef14bdd",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "c92ab210-4661-408e-9e9e-fa9739a2f3b2",
+          "frames": [
+            {
+              "id": "2b75d24d-8b2a-43d9-bf69-5dd7772b732f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f8417a42-583b-41fc-9e37-37c0dc8642a8",
+          "frames": [
+            {
+              "id": "d74acc6c-36b3-4ca5-95fb-00a64ec822bd",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "eb0e05a2-7398-4627-a1cb-06b81abfb018",
+          "frames": [
+            {
+              "id": "a1621402-907f-44e0-9053-9c520ccd4448",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2a9927f9-78c2-4292-8fdd-938de7b46f0a",
+          "frames": [
+            {
+              "id": "00ba1d94-3b4b-448d-9fa1-307ce592bed1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "015b57ac-9dce-4e03-89e1-f878cd3c05fa",
+          "frames": [
+            {
+              "id": "b11f45c6-5a7a-4681-85ce-2dacac4a1849",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "07c9fcab-b5d1-4fc8-88bb-e56398328fcc",
+          "frames": [
+            {
+              "id": "7b9a812b-5859-4342-b1dc-ac10dc7c308c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "055b12f7-af37-4277-911d-89dc1cb717c7",
+          "frames": [
+            {
+              "id": "2c3a6ca4-158a-4d79-a8d3-3777bb430729",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Man made/Footprints_Sand_Vert_16x16.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "e2dbc7e1402256e22e6c6e133c836f5c6a90c17c"
+}

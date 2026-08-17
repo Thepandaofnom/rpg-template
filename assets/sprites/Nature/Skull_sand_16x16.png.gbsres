@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "98ddcd81-8275-40b7-8e17-4e91c51b1141",
+  "name": "Nature/Skull_sand_16x16",
+  "symbol": "sprite_nature_skull_sand_16",
+  "states": [
+    {
+      "id": "a603275d-f346-40dd-bbad-db042e6c147d",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "2a1873d6-7a23-4839-96d8-29f7728ddf80",
+          "frames": [
+            {
+              "id": "4d4c2639-3660-46b0-8e05-75708e2bd846",
+              "tiles": [
+                {
+                  "id": "c14eebd4-471a-4703-b87a-2e2f44545313",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "cc0a6392-6240-43d9-9e43-e2a73df0aacc",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3aef202c-19e6-4291-a2a3-3939fca1ce33",
+          "frames": [
+            {
+              "id": "bd981a4c-4249-4289-a9eb-fcd3e2658c46",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1e6002fc-1df5-409a-ba07-c9ba0001d4dd",
+          "frames": [
+            {
+              "id": "ec7bdc95-86fe-47b2-9a60-29613eaf6676",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "84122ca3-32a7-43bf-9721-426e0739febc",
+          "frames": [
+            {
+              "id": "ee44f7b7-2a3c-47a8-8757-6ab86df19b49",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ba1151ca-870c-448c-ac15-5b4cdd7b9c5f",
+          "frames": [
+            {
+              "id": "5be20ee4-0cc8-484f-9b50-86a283bc7851",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "500e99c8-433b-4b7f-be19-b162e7e7ec91",
+          "frames": [
+            {
+              "id": "2385817f-62fb-4e00-aa9d-7920337a7c65",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "23dbea07-1503-4bea-94ef-1bcee9db96f6",
+          "frames": [
+            {
+              "id": "814c370b-447b-486c-8c74-1d8eee5331d3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "079e0360-a6f7-4346-98bd-f587ee6da914",
+          "frames": [
+            {
+              "id": "7c0749c8-ea50-41b7-a1a5-aa423c8071cd",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Nature/Skull_sand_16x16.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "dffc9ed2138056ef8bbb72fb6b511d37ce48aae4"
+}

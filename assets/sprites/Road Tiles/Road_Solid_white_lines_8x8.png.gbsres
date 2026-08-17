@@ -1,0 +1,102 @@
+{
+  "_resourceType": "sprite",
+  "id": "f9d25950-3d00-4d1e-92a9-649bf98cda71",
+  "name": "Road Tiles/Road_Solid_white_lines_8x8",
+  "symbol": "sprite_road_tiles_road_soli",
+  "states": [
+    {
+      "id": "e20f0d1b-ecf8-44b4-8f54-65260d2ca51c",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "5058de32-37bc-42e9-a152-b12d741cc687",
+          "frames": [
+            {
+              "id": "7b9a1e1f-0da3-4e7d-84c7-fef91d8ccf70",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2af43e3c-b463-45a1-8a3d-c68f1b0153f5",
+          "frames": [
+            {
+              "id": "20cc3b56-f964-417a-b891-13ee661e4ad7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "66bb07a9-54f6-434c-b25a-4714a2f29356",
+          "frames": [
+            {
+              "id": "ab9fb42e-99d9-45e3-89f1-20281dd41faf",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "702bcf1b-db65-4414-8258-3c2c73176b12",
+          "frames": [
+            {
+              "id": "ffcc7324-4f78-45b0-adca-1b4f67b022bf",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "19dff444-8bb0-4fec-86c3-c1d7db9d3cd8",
+          "frames": [
+            {
+              "id": "1fa90a84-2379-4772-bb73-7162e16c46b7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c4e019a6-d536-44a6-8822-06fe083a4ad2",
+          "frames": [
+            {
+              "id": "38c413da-d7ef-4b01-9446-bcbc9a1b4f5e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3e0cd070-7341-4997-ac90-dfdc35e8a3ad",
+          "frames": [
+            {
+              "id": "70606159-8801-4c44-85c6-cf14e8d744b2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0b6df226-eb31-421c-8ee2-1b86d94987cc",
+          "frames": [
+            {
+              "id": "429d61ed-523b-4b8a-8771-998c8c38de7a",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Road Tiles/Road_Solid_white_lines_8x8.png",
+  "width": 16,
+  "height": 8,
+  "checksum": "87cfb982dff35f82694d7f5a7279ba0e7c4e34b6"
+}

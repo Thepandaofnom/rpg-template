@@ -1,0 +1,28 @@
+{
+  "_resourceType": "script",
+  "id": "179f14de-7741-4d84-9be5-becd47b53ab0",
+  "name": "HUD",
+  "description": "Player HUD",
+  "variables": {},
+  "actors": {},
+  "symbol": "script_1",
+  "script": [
+    {
+      "command": "EVENT_TEXT_SET_ANIMATION_SPEED",
+      "args": {
+        "speedIn": -3,
+        "speedOut": -3,
+        "speed": 0,
+        "allowFastForward": true
+      },
+      "id": "b1ab0eb0-b617-4b59-b875-5750586b2c14"
+    },
+    {
+      "command": "EVENT_GBVM_SCRIPT",
+      "args": {
+        "script": "VM_OVERLAY_SHOW 0, 16, .UI_COLOR_WHITE, 0\n\nVM_LOAD_TEXT 2\n.dw VAR_HEALTH\n.dw VAR_COINS\n.asciz \"Health %D2 Coins %D2\"\nVM_DISPLAY_TEXT"
+      },
+      "id": "52d6fc15-e37c-4df4-83fe-2b4e17d69cde"
+    }
+  ]
+}

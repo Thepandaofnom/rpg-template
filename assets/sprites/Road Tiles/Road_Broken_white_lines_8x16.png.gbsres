@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "ae4d76ef-1aea-4c6c-9777-c206a55cc446",
+  "name": "Road Tiles/Road_Broken_white_lines_8x16",
+  "symbol": "sprite_road_tiles_road_brok",
+  "states": [
+    {
+      "id": "35942fdf-19f8-4d62-a7ce-8c8c5cedc34e",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "5a4474be-c4f8-48de-a1e7-19295c313b94",
+          "frames": [
+            {
+              "id": "6a021cce-3a2a-4dab-b272-f37051fb4c5c",
+              "tiles": [
+                {
+                  "id": "d4628fa9-3614-4832-b02f-89e3bd930537",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "bd229c10-d43f-4b82-a625-fa5d75f594af",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bf0d0e31-f917-4ec1-b98c-ac0dbe979c8f",
+          "frames": [
+            {
+              "id": "a1c1e4d7-a9b1-4e26-ac98-0fe3d7f05d3e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "73be7b7f-3afb-48a6-a2ba-4ba034f51369",
+          "frames": [
+            {
+              "id": "fa26a31a-a420-4f83-844e-c6b64d7d22a9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "42cafde7-910e-4d86-a0e8-cdda6d04eb58",
+          "frames": [
+            {
+              "id": "3b244bb9-44d1-4f96-93c9-1d6c7463c911",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a93b49c4-7834-44ae-99cf-fb79d9841394",
+          "frames": [
+            {
+              "id": "503e7646-776e-4153-bc7f-92846f6ba886",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "23138066-8634-4f91-ab81-e52093174743",
+          "frames": [
+            {
+              "id": "7b5bfb2c-5ce9-400d-ba34-5efce2847376",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "57e73ab8-012b-4055-9268-5131fbe77dc5",
+          "frames": [
+            {
+              "id": "f8ec55a4-3adf-4d67-8363-35e7e2eca80f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e2d09074-ec1f-4cd1-913f-10d62168de39",
+          "frames": [
+            {
+              "id": "a9fb917e-4edc-411b-9a0b-f14ffab921ee",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Road Tiles/Road_Broken_white_lines_8x16.png",
+  "width": 24,
+  "height": 16,
+  "checksum": "be5e7de1c1361d2c783728afcdbababb88a15f13"
+}

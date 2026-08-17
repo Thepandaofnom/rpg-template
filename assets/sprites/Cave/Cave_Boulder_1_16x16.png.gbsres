@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "52d6fcd3-5fac-444a-ae7d-514e6a5031ae",
+  "name": "Cave/Cave_Boulder_1_16x16",
+  "symbol": "sprite_cave_cave_boulder_1_",
+  "states": [
+    {
+      "id": "9c1b64ac-4997-4382-9feb-80973683ba8f",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "906e1461-bfbe-42f5-9c93-69e5cf0b092e",
+          "frames": [
+            {
+              "id": "5cbb74c7-f68e-436d-a0c8-f7a32f1b3e2d",
+              "tiles": [
+                {
+                  "id": "cff821f5-05d5-4160-86ed-674bdc12185d",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "c8ed3570-3b33-46cd-9d44-bba9252c4445",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "35fdf3a4-f6d9-451f-bc65-0a7fc6eded20",
+          "frames": [
+            {
+              "id": "156f7ca6-b2d8-480f-b3bc-1f20cbb82379",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b416e62d-e0fe-49d9-9cb7-c963daa46fa3",
+          "frames": [
+            {
+              "id": "f2389528-d083-409f-a57e-d3c510a88388",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7ed86921-586c-4f3c-a8f4-9d810cc00ec7",
+          "frames": [
+            {
+              "id": "bc9b7331-da35-4cc4-a06e-3476187d803a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bc050cd8-9e75-4081-ae59-bf34e99a48d9",
+          "frames": [
+            {
+              "id": "9ee83eba-aa72-494c-a2a1-5ef8c3b5106e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "20598d55-dc22-42fa-934b-0152eb8e48f3",
+          "frames": [
+            {
+              "id": "f42cee3e-f663-4dc0-b550-f18c5e1b7860",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "003cb0ef-ca42-4c48-bfcd-8b3a7f8168c1",
+          "frames": [
+            {
+              "id": "c0c61917-6d02-4e13-9d3a-5e64d80c3821",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b778e961-03ce-4225-825d-78fe1f269fb2",
+          "frames": [
+            {
+              "id": "5ec8aa3f-9ea4-478d-947e-357163161cbf",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Cave/Cave_Boulder_1_16x16.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "c8c58085fc577d026910085e2375b2882016c478"
+}

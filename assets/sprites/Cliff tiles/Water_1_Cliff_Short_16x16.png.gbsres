@@ -1,0 +1,183 @@
+{
+  "_resourceType": "sprite",
+  "id": "de0deaec-3fb5-46a3-b620-3e8b35a2ac54",
+  "name": "Cliff tiles/Water_1_Cliff_Short_16x16",
+  "symbol": "sprite_cliff_tiles_water_0",
+  "states": [
+    {
+      "id": "763880f5-98f6-4138-9b2a-a5a0bee044af",
+      "name": "",
+      "animationType": "multi",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "f9958aed-1715-4cac-b864-b64b1d307d35",
+          "frames": [
+            {
+              "id": "81106641-302a-42a5-8408-b49bf7273e4a",
+              "tiles": [
+                {
+                  "id": "197c517b-1100-4681-8721-a2958e278a72",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 32,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "3cd953a9-0f4c-458b-b03f-6af167491154",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 40,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "04067b4d-e90c-48dc-a1ea-c2349addb077",
+          "frames": [
+            {
+              "id": "9908aa32-0a81-4982-bae0-efe5ab6afcd7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f6f5f62c-3837-4a6c-a2cd-65a0cf623e4f",
+          "frames": [
+            {
+              "id": "04134f21-584e-47de-8031-3ea468061e63",
+              "tiles": [
+                {
+                  "id": "5a1aca28-a6d3-4787-b064-169e96ca43d7",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 16,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "4d5d2baa-e659-4f58-a352-d7418afc97b1",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 24,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "e25e11a6-7dff-4af7-803b-bc968fffb836",
+          "frames": [
+            {
+              "id": "9e1e6c84-d50d-4ed0-a180-3040f6cb2008",
+              "tiles": [
+                {
+                  "id": "4c12610c-d879-4cba-8c25-447f7b207558",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "d2cffb41-bb23-412e-9742-b324ea17b6ca",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "64626bcc-2686-458d-89a3-f76444c305ec",
+          "frames": [
+            {
+              "id": "5d038899-d54a-41d9-94a0-6b5d7285ca60",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "49fe6098-5ad7-4339-b112-bd5ef86e38d1",
+          "frames": [
+            {
+              "id": "b5952c73-cfbb-4e8c-b2c7-3ffe66cb565e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "63c868b8-0487-4395-9a47-1bff7089397f",
+          "frames": [
+            {
+              "id": "b0e9a5d2-18e0-4983-b51f-7167ca006cc4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "456e14b7-7936-42c8-aea4-d4c2c3e4c06d",
+          "frames": [
+            {
+              "id": "f5f624c3-d946-4e83-9528-a4fd96e3607b",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 6,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Cliff tiles/Water_1_Cliff_Short_16x16.png",
+  "width": 48,
+  "height": 16,
+  "checksum": "2eca2605078cf4d860bfaf44ae3de6e94cad9f0d"
+}

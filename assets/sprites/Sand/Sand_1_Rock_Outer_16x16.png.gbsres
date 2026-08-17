@@ -1,0 +1,102 @@
+{
+  "_resourceType": "sprite",
+  "id": "686653a0-76fd-4801-8ae5-e0c03d91eb8a",
+  "name": "Sand/Sand_1_Rock_Outer_16x16",
+  "symbol": "sprite_sand_sand_1_rock_out",
+  "states": [
+    {
+      "id": "7470d602-5c37-4b48-8928-ea9d35872fad",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "48214a80-4f3e-4edb-b34d-ece44b5577b9",
+          "frames": [
+            {
+              "id": "22ff0351-d545-4c5c-98af-21c55d627ca0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "69e1f2bf-8faa-49e9-b3ec-1b829bd9c2dc",
+          "frames": [
+            {
+              "id": "790a8afd-7f67-496c-bbb3-2f5d764b4308",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9e00d843-85db-4c8f-b1f6-154e9b34fadc",
+          "frames": [
+            {
+              "id": "2931d976-4167-46ac-ab4d-bab16fff4c70",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ffc3d9af-3526-4b3c-b83f-70d373b6a88d",
+          "frames": [
+            {
+              "id": "52809db8-1629-4128-a5cf-cfa0cd31e000",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "cf523f68-ded7-4c6e-90fc-b9bd83ef6519",
+          "frames": [
+            {
+              "id": "a46fd704-db60-460a-97a7-8a9e956947d3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "27294ccb-cdcf-4397-8e39-b7731d47aa9c",
+          "frames": [
+            {
+              "id": "a9632fac-7127-4368-b95f-63c0430cd1e8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7401cf4b-35df-4d90-b8da-66233c8728b1",
+          "frames": [
+            {
+              "id": "e2c64072-a832-455d-a1da-46f89133a9cb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1553139b-a0b4-406d-862a-c96c697e0231",
+          "frames": [
+            {
+              "id": "23275128-e2c1-4433-99f8-8980743fac5d",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Sand/Sand_1_Rock_Outer_16x16.png",
+  "width": 48,
+  "height": 48,
+  "checksum": "936322895f5885b6bf7c0e85169e3611ce8291d2"
+}

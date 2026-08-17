@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "4e78faf8-6bef-423c-8ad6-7f12d7cef98b",
+  "name": "Nature/Stepping_stones_water_16x16",
+  "symbol": "sprite_nature_stepping_ston_0",
+  "states": [
+    {
+      "id": "ae066eea-7bfb-4e9a-b9d8-2b630c9164b8",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "edf4d5c3-f812-401c-a68d-dfec318c4517",
+          "frames": [
+            {
+              "id": "3bd0e8de-c452-4c34-8810-b51c84ceac84",
+              "tiles": [
+                {
+                  "id": "ddf7583b-d303-43d5-bde8-3b04713681f9",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "e2128d79-ac41-448b-92f6-2c3dee049ffc",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2a1d7113-01a7-4bf9-82f9-be4d9cbe0bae",
+          "frames": [
+            {
+              "id": "d24cadb9-ec53-4c5d-be43-559bc570758f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "17e8550e-6d9d-479a-aa70-7e3ddd2f6221",
+          "frames": [
+            {
+              "id": "53a80445-fa3c-41e5-bddb-3e4f8c02b59e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b91cfea9-a171-4338-8133-7e93742342d0",
+          "frames": [
+            {
+              "id": "d22cd7c7-3731-48e4-85b1-2ca693c06f89",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "04cfeecf-d45b-4d38-a72c-be0577b7b065",
+          "frames": [
+            {
+              "id": "a1a9d122-b831-4787-bb09-79926d442d80",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c139f03c-f4d9-4c9c-b58b-1e058dfc8357",
+          "frames": [
+            {
+              "id": "a10e56db-2157-4178-9790-6a1dd3f58fa5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "54ffad7d-4b44-4baf-9272-04d11728bff8",
+          "frames": [
+            {
+              "id": "dd06f76a-58e7-45a4-a458-a9300a6616bc",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b07a0aaf-281d-4705-ae2c-18ccd20e6cf7",
+          "frames": [
+            {
+              "id": "f3f65a49-1c1f-4f12-87e7-0876059329eb",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Nature/Stepping_stones_water_16x16.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "0977ec0a312244533436e90b70d47c68cda2bc54"
+}

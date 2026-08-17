@@ -1,0 +1,102 @@
+{
+  "_resourceType": "sprite",
+  "id": "451ff25e-741d-4227-a560-6ad9866f3f44",
+  "name": "Path Tiles/Path_Gravel_Inner_16x16",
+  "symbol": "sprite_path_tiles_path_grav",
+  "states": [
+    {
+      "id": "7b675b79-f8a6-4c6b-8b9d-0ddaf04cc0b9",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "c45762f2-aca9-4ceb-b15d-ee1a6c7c7a08",
+          "frames": [
+            {
+              "id": "f765681f-1c2a-49f5-977d-d3c8c5edb3e0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "070a8ce7-d0c0-4f08-aae4-16fcc8377116",
+          "frames": [
+            {
+              "id": "86542e7a-bd28-408f-a641-4408e9a4ffd9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "33fb78c1-0727-4547-bdaf-f7304edf193d",
+          "frames": [
+            {
+              "id": "15f38f2c-9b28-44f4-b764-f1bbedc853df",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "46ef90c6-ae6f-4bd0-8fcc-6cfdbcce7f31",
+          "frames": [
+            {
+              "id": "fc0d1213-3b23-4d29-a751-6e386b17958a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c8b3510d-08ca-4566-a392-5186abccc715",
+          "frames": [
+            {
+              "id": "9ef59b39-2327-49a7-9d19-7db26f21e2a7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "58d654c5-1996-48be-ab6f-f4f5ab4e0ad9",
+          "frames": [
+            {
+              "id": "37402910-ff42-4a47-8c5b-56c07035b454",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a255b4f4-b2d7-44e2-abe3-0bc7e0cd3a21",
+          "frames": [
+            {
+              "id": "c678c806-1d67-4d1f-9e4b-20ee7ac827c3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5cdb2a73-92a1-4afc-a60f-83709112dea5",
+          "frames": [
+            {
+              "id": "246f627d-2824-4a0d-aa02-710ec9e22f1d",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Path Tiles/Path_Gravel_Inner_16x16.png",
+  "width": 48,
+  "height": 48,
+  "checksum": "4faf06162d88f4132745e7e1639c0ba4a9fd8039"
+}

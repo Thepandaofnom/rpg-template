@@ -1,0 +1,102 @@
+{
+  "_resourceType": "sprite",
+  "id": "fe67e4ae-153f-4250-baa1-ce394067b31f",
+  "name": "Man made/Lampost_16x48",
+  "symbol": "sprite_man_made_lampost_16x",
+  "states": [
+    {
+      "id": "6f136892-ce83-4b2f-ad6a-72569e0f22af",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "cae9aaa8-b186-46de-8202-8385dff7bca7",
+          "frames": [
+            {
+              "id": "fdb05103-dac1-4093-b1e1-f45b8846fb4b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "cda85557-c82f-440d-b121-7c921b7c03d8",
+          "frames": [
+            {
+              "id": "d161f81b-e79a-4e8b-94de-5b30b4f9d2f0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "aa3d8baf-d1c1-4e58-9946-0ea418926e71",
+          "frames": [
+            {
+              "id": "a29dec20-fda2-45f7-90e0-181c04a70926",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ed23fbfd-52ad-43f5-a92b-813c5f51f4c2",
+          "frames": [
+            {
+              "id": "56c9d491-1d77-47f8-a941-d028cba20e46",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "862ca1d6-1f6f-42ef-aacd-5a2bd0ae6db8",
+          "frames": [
+            {
+              "id": "1f4a856a-3a78-431a-9328-466717b39e18",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6d6d91ea-4bc7-4ab1-9183-07114213e6d4",
+          "frames": [
+            {
+              "id": "d62ead94-06a3-4d98-ae64-9655b0446249",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "304eeef3-2b68-4273-b5cd-2aa650a519ce",
+          "frames": [
+            {
+              "id": "dde5ffa6-2e22-4b67-800e-2a65337ed74e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1600edfc-ba0b-4666-bc13-1049aff62246",
+          "frames": [
+            {
+              "id": "cd0a18e3-e30f-4e4c-aeb2-994af901a035",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Man made/Lampost_16x48.png",
+  "width": 16,
+  "height": 48,
+  "checksum": "e073545e402fbeb8cdc0d748cc4bc4924c8df10a"
+}

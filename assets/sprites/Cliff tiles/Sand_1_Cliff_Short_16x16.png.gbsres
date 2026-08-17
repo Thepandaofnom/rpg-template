@@ -1,0 +1,183 @@
+{
+  "_resourceType": "sprite",
+  "id": "c29bae8d-352d-4e5f-8a1e-607336bfbdb1",
+  "name": "Cliff tiles/Sand_1_Cliff_Short_16x16",
+  "symbol": "sprite_cliff_tiles_sand_1_c",
+  "states": [
+    {
+      "id": "6e9737c0-e9fe-4ba1-b9aa-6fbfae6c94cd",
+      "name": "",
+      "animationType": "multi",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "112a4182-96bb-468a-9c98-ce3d2bcc4951",
+          "frames": [
+            {
+              "id": "945921a7-9570-446c-ba21-e5516ec12050",
+              "tiles": [
+                {
+                  "id": "3fc5d61a-cbf7-420e-b130-d064d4b41b05",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 32,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "3d206a90-c6d0-463a-9ed0-7d5c1fd290b5",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 40,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "e505323a-0699-4056-a390-6188bde970f4",
+          "frames": [
+            {
+              "id": "52b712c5-ebe7-445c-9ccb-cbf36191d618",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "613d4faf-f64c-4677-b97f-404b3b914e4e",
+          "frames": [
+            {
+              "id": "d1db2c56-5f4c-4ea8-a6f8-beb84706c910",
+              "tiles": [
+                {
+                  "id": "2d011655-1fab-48fc-9a00-0c8cff0903e7",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 16,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "ad1fb359-7025-4ab8-9439-d6f1c32aaffe",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 24,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8dca5d07-62e8-4db9-9ab3-43de9a33611c",
+          "frames": [
+            {
+              "id": "a73c4afe-1d33-4159-a96e-76d15f5d255d",
+              "tiles": [
+                {
+                  "id": "27ebbcae-93f1-4d5d-85bd-2f3c8c5c5f70",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "5cf83664-ed13-4caf-95be-5cfe554d47e7",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3c1ea111-3bd6-46b4-a44c-d8bb6c18997c",
+          "frames": [
+            {
+              "id": "f1b5a6ff-941c-49cc-a4e9-631eb6c1022e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "01b54d10-daea-4ae1-b092-5c982a741a7c",
+          "frames": [
+            {
+              "id": "8abd13e5-1c90-432e-a45e-2288bc2946c2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "eb2f7d9c-5278-461f-8f22-830d45353dd2",
+          "frames": [
+            {
+              "id": "35383050-ada4-493a-bdd6-45ba655816f5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8e985a6f-3249-4fed-9f37-d9b1864e4ca8",
+          "frames": [
+            {
+              "id": "6cf6b92b-c236-4614-8f55-db1df7c61c14",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 5,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Cliff tiles/Sand_1_Cliff_Short_16x16.png",
+  "width": 48,
+  "height": 16,
+  "checksum": "d53a9d1f4cb5c095bd366b8262084006c2991205"
+}

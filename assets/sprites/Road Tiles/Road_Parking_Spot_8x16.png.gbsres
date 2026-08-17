@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "744a681c-694d-418a-8221-2514f40cecb3",
+  "name": "Road Tiles/Road_Parking_Spot_8x16",
+  "symbol": "sprite_road_tiles_road_park",
+  "states": [
+    {
+      "id": "4b0aba1e-91ea-4766-a5d8-a23379df12eb",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "137bfbf9-92bc-4f1d-b522-55ceed2db4f2",
+          "frames": [
+            {
+              "id": "b1aa23f4-b711-4628-9b2a-3efa931e7260",
+              "tiles": [
+                {
+                  "id": "0ed54942-8a65-49c6-8b55-9c1fb829bfe2",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "b99c8f59-4ddc-4869-a222-f1de32865fae",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "014f4109-7662-4952-842f-41f5bb04c3ca",
+          "frames": [
+            {
+              "id": "c6611375-2673-4c31-829d-2a127899b180",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c20b6143-a66b-4226-b21a-47d9aeece0b8",
+          "frames": [
+            {
+              "id": "64fc8173-b5eb-4f55-b9b2-9350db7f5ed1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e7cb4424-93d9-4cd5-bfad-00fd2aaa6578",
+          "frames": [
+            {
+              "id": "bdceb478-eff4-4e68-ac8f-acf6784a15fc",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8d3dd3bd-fe14-489c-a99b-9aa39d932510",
+          "frames": [
+            {
+              "id": "451e284d-233d-4560-a602-660f05304efb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a89b2fb9-5cb9-43c2-a9d5-79be7314dfa7",
+          "frames": [
+            {
+              "id": "85fb82dd-b3c3-47de-82f8-9c167c650da6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "50b96c4f-e1f9-4d19-89ee-7920951d5582",
+          "frames": [
+            {
+              "id": "ba50b137-29f2-4d88-a1b8-c6dcb1fe9876",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "35da963a-974d-4e20-91dd-b16aa80203cd",
+          "frames": [
+            {
+              "id": "762e1373-ca67-4e04-990f-a8f7d7a3a21b",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Road Tiles/Road_Parking_Spot_8x16.png",
+  "width": 24,
+  "height": 16,
+  "checksum": "1b973f09d53098783faf64b4ce3906b7e3b6ccf7"
+}

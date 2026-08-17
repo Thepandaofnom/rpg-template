@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "97e54867-dbf7-41c9-8815-b900122aed4c",
+  "name": "Nature/Rock_big_2_16x16",
+  "symbol": "sprite_nature_rock_big_2_16",
+  "states": [
+    {
+      "id": "28363dec-b0b6-4ab3-9c07-10cd61934664",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "68acee13-5a35-402d-b2ca-4870d5b5c9e3",
+          "frames": [
+            {
+              "id": "1ff7cf63-b3bf-4396-b5db-84dd191068ca",
+              "tiles": [
+                {
+                  "id": "7f41792d-e91c-444e-a90f-f1d8c6041249",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "beb0fe59-eb9f-4e99-b3fd-323a1c0960b4",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8e4f74c7-6f6c-482f-8d2b-1cd566b99e03",
+          "frames": [
+            {
+              "id": "aeaf03b9-37b3-4f4a-8a9b-27cac409a9c7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bc55b05c-76f6-490e-b5c8-4f2dfd467aa4",
+          "frames": [
+            {
+              "id": "ff52597a-6ecd-488e-b856-663a6ac3c0f2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0b84f102-cb92-4873-aa3e-1b3e816f4a2f",
+          "frames": [
+            {
+              "id": "83e5c3c1-d506-474c-89b8-9d41c92888de",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b16896c9-231a-43e8-bad8-d337ca0f4b1c",
+          "frames": [
+            {
+              "id": "0a450a38-38e7-418b-968f-a0f32d1f038e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e8e145b3-2c2f-4def-bd2d-c5a481723fc8",
+          "frames": [
+            {
+              "id": "90d1d6f0-1788-4142-b0e7-109b8562e864",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6fb5d221-7d72-4336-9cb9-198f0cc214c7",
+          "frames": [
+            {
+              "id": "0959ef64-6e0f-4b07-9d58-0ac48973c161",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1bb03386-1d39-42d8-bada-f7158c07cb29",
+          "frames": [
+            {
+              "id": "743d8eae-b905-467c-b730-2f55efb9049c",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Nature/Rock_big_2_16x16.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "88a79251e0fc10d2caeb3ad99c65ff73e088f781"
+}

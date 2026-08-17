@@ -112,7 +112,7 @@
       ]
     }
   ],
-  "numTiles": 2,
+  "numTiles": 0,
   "canvasOriginX": 0,
   "canvasOriginY": 0,
   "canvasWidth": 16,
@@ -125,5 +125,5 @@
   "filename": "static.png",
   "width": 16,
   "height": 16,
-  "checksum": "ed08d198cc3dd48f9bfba000769904ae41b36db8"
+  "checksum": "eecbf3f8b174730418764ab27f4721b89e0bb9bc"
 }

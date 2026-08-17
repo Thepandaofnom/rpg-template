@@ -1,0 +1,207 @@
+{
+  "_resourceType": "sprite",
+  "id": "63de21f6-1eb5-432d-9264-3269fb1e338a",
+  "name": "Nature/Tree_Palm_32x32",
+  "symbol": "sprite_nature_tree_palm_32x",
+  "states": [
+    {
+      "id": "b47afc06-d037-477c-bc2e-7ba8793027ac",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "08644bc5-71e9-42a8-a216-fb598d25a85a",
+          "frames": [
+            {
+              "id": "98ab04a1-a6f3-496d-ba2b-2755f6fbe145",
+              "tiles": [
+                {
+                  "id": "bfe02e7a-a975-42ba-9cfc-4f14e885d231",
+                  "x": -8,
+                  "y": 16,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "1e93fbe5-f603-4b23-b45a-68b426f34e33",
+                  "x": -8,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 16,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "202a0cf1-c3a0-4b6b-abba-755db49b15b0",
+                  "x": 0,
+                  "y": 16,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "514d3bc6-3572-420d-9a2c-2ada62278dd4",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 16,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "cdfec904-8a7c-4a73-904f-875e9cfe7191",
+                  "x": 8,
+                  "y": 16,
+                  "sliceX": 16,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "32d4a322-3f6c-4181-a9f3-5f9f76a0cd6e",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 16,
+                  "sliceY": 16,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "133149fa-ba52-427c-a595-ac9d2ee92bd3",
+                  "x": 16,
+                  "y": 16,
+                  "sliceX": 24,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "efb562d6-bc5e-4674-b582-25797e3d2b97",
+                  "x": 16,
+                  "y": 0,
+                  "sliceX": 24,
+                  "sliceY": 16,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bb2c5b2a-4c6b-4130-8386-dc56fb26867e",
+          "frames": [
+            {
+              "id": "4e5378bc-7b1e-4801-b141-ff82c21274b4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "005fae68-823f-4bd5-8f3e-c08b80636c7e",
+          "frames": [
+            {
+              "id": "74989053-4b8a-44fc-bfdd-fb21f4dc269c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "38c1d086-fce0-495b-b879-78116e6dd4cd",
+          "frames": [
+            {
+              "id": "1f0b9d4b-4252-4669-9fb5-c48cac54db9a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3d93e2d3-66cc-4bb1-b6d6-f577ddb3b182",
+          "frames": [
+            {
+              "id": "d7ea2902-fe01-432e-ab0c-d3309b51d605",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ec0682e1-2d8b-4232-bd43-c3ade812c0fb",
+          "frames": [
+            {
+              "id": "093f9595-d7ca-4ae3-93cd-f79ce551e1c0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "784089c8-f966-4ab3-a9fc-ea906b6bc04f",
+          "frames": [
+            {
+              "id": "c760d709-7c51-4e28-a852-f5c13a78bbba",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bdc4f626-63b4-47e8-b87e-02a2aca2dfba",
+          "frames": [
+            {
+              "id": "e5e49fd6-7222-4643-937d-e0fb575af027",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 8,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Nature/Tree_Palm_32x32.png",
+  "width": 32,
+  "height": 32,
+  "checksum": "fdb10a4e946e3f8478a8a999e107e00736b314be"
+}

@@ -1,0 +1,102 @@
+{
+  "_resourceType": "sprite",
+  "id": "12d8d5aa-c543-4235-b54e-509f1bb35a7e",
+  "name": "Man made/Fence_Picket_8x16",
+  "symbol": "sprite_man_made_fence_picke",
+  "states": [
+    {
+      "id": "9291ebf8-e50a-4c4b-a646-1fc9187af669",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "f49765ed-8b54-402b-9b4d-0b935ac4a7c8",
+          "frames": [
+            {
+              "id": "3e27933c-f7aa-4761-beb6-f6a486ff565d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f9da3bc0-98a7-481f-afd9-7b7f70cbaca6",
+          "frames": [
+            {
+              "id": "8ed9784e-a31f-438e-93be-b150030469ff",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "611fc01a-c3d1-4613-b8aa-282bd07ec7a8",
+          "frames": [
+            {
+              "id": "9b9e96a8-2daa-49e5-97ec-ae2efbd4a0f7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "394160ab-0867-4fee-aab8-f90c57da60e6",
+          "frames": [
+            {
+              "id": "b577b70d-e53c-4b37-95be-ac485d7e1e62",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7743c01d-0656-405d-811a-8b0b238cf3d9",
+          "frames": [
+            {
+              "id": "2b1855fa-ecdd-40f1-9061-62370db7e7de",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "82341594-28e4-4361-9087-3c173c578231",
+          "frames": [
+            {
+              "id": "f8953e9a-401f-4e11-bb4a-5c05bc0db845",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "142f09ab-65dc-4b53-ae94-21a28cd24226",
+          "frames": [
+            {
+              "id": "3084da5b-7c88-4e7a-b71a-102a0d9ef4f3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7ee80644-a2ab-44f2-9670-ba7f1b61fbbe",
+          "frames": [
+            {
+              "id": "d7dd9171-f3ee-414d-b47a-196161b692b7",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Man made/Fence_Picket_8x16.png",
+  "width": 24,
+  "height": 48,
+  "checksum": "ae735462a2db90a2a6d0632ccd444ee13e4b163e"
+}

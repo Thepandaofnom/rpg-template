@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "0fa08e80-bfec-4890-bdac-6b6c77b5e654",
+  "name": "Sand/Sand_1",
+  "symbol": "sprite_sand_sand_1",
+  "states": [
+    {
+      "id": "6cd629d5-d981-46ca-8243-135c1d2e6e75",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "d42b29d5-b283-495d-b14c-35394faa755f",
+          "frames": [
+            {
+              "id": "e9fb3665-3754-4301-b9e9-2e4e28932ff7",
+              "tiles": [
+                {
+                  "id": "4e90df61-038e-4c47-ab5e-c24113e6d91c",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "734e60f4-baea-41d8-af52-1f70a0922b95",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "102d991d-0bf1-4306-ac40-2bdd25a4a2e2",
+          "frames": [
+            {
+              "id": "2fffa1a1-c8e5-428a-b9b7-a676b96222f1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fa7b94cc-512e-4425-b7cf-c62d645a9b5c",
+          "frames": [
+            {
+              "id": "96004455-649f-456b-801f-322656e3488c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "07897b62-1b07-40c5-8dec-5995afc328ce",
+          "frames": [
+            {
+              "id": "a86a62d8-59f4-4fd3-bbb9-29d14b327177",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8734a39b-a2cc-4642-baf6-19b8ba650bdf",
+          "frames": [
+            {
+              "id": "56d806ba-4e95-442b-b172-8b4bad4414d5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7e660302-c6e0-4bad-9e18-044b95783234",
+          "frames": [
+            {
+              "id": "e8e99357-accf-465b-8e4b-7c98de8757dc",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f1b01fbc-5123-404a-b169-b26b71fca435",
+          "frames": [
+            {
+              "id": "de3ae1ec-529d-47b7-a266-2498961e56d6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "476d2383-6822-4821-9ae3-02cf1fa45ef4",
+          "frames": [
+            {
+              "id": "5ba5ebbb-09f6-4aba-ad52-fe2414d31ac1",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Sand/Sand_1.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "cfa783f38dd29d25588b76f01958163103364a3a"
+}

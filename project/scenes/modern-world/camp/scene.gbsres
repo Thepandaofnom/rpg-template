@@ -1,21 +1,30 @@
 {
   "_resourceType": "scene",
   "id": "a262cf2a-a7e6-438c-8903-6bed749b6ed5",
-  "_index": 2,
+  "_index": 4,
   "name": "modern-world/camp",
-  "backgroundId": "261c9c21-d535-48fd-bece-ba2659297e51",
+  "backgroundId": "22f68aab-8adf-40f4-973b-afe33374168f",
   "tilesetId": "",
-  "width": 20,
-  "height": 18,
+  "width": 45,
+  "height": 45,
   "type": "TOPDOWN",
   "colorModeOverride": "none",
-  "paletteIds": [],
+  "paletteIds": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "edincans-living-realm"
+  ],
   "spritePaletteIds": [],
-  "collisions": "00168+",
+  "collisions": "007e9+",
   "autoFadeSpeed": 1,
   "symbol": "scene_3",
-  "x": 456,
-  "y": 40,
+  "x": 480,
+  "y": 200,
   "script": [
     {
       "command": "EVENT_SET_VALUE",
@@ -26,6 +35,20 @@
         }
       },
       "id": "8ce5de9f-f681-40c5-8827-2749e1b47cd9"
+    },
+    {
+      "command": "EVENT_DIALOGUE_CLOSE_NONMODAL",
+      "args": {
+        "speed": -3
+      },
+      "id": "9a842749-24cc-4db1-b7a6-8051a3a47b64"
+    },
+    {
+      "command": "EVENT_CALL_CUSTOM_EVENT",
+      "args": {
+        "customEventId": "179f14de-7741-4d84-9be5-becd47b53ab0"
+      },
+      "id": "7755fe9d-6e00-4f6b-8290-c4ca3046b2ba"
     }
   ],
   "playerHit1Script": [],

@@ -1,0 +1,116 @@
+{
+  "_resourceType": "sprite",
+  "id": "a5091a73-525c-438f-a8dc-cf5b614dade1",
+  "name": "Nature/Tree_Stump_1_8x8",
+  "symbol": "sprite_nature_tree_stump_1_",
+  "states": [
+    {
+      "id": "734deb81-098a-40fd-9816-e6d6a86bd02d",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "d5e69a51-712c-4362-8b80-b46e43ced585",
+          "frames": [
+            {
+              "id": "9e171728-75f1-4629-97a4-edeed45a4a72",
+              "tiles": [
+                {
+                  "id": "ef4e3251-a78d-4a7e-9fce-513b2f11f35e",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": -8,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "661c1519-d246-4841-857c-0945536dc2b4",
+          "frames": [
+            {
+              "id": "1bc57f89-f5f5-4558-b40e-ad14b0a020b6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "51a775e2-0847-4a54-9ecc-4249d49c95eb",
+          "frames": [
+            {
+              "id": "19f66f27-0dd9-4de1-83ff-5f2229e83741",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8a18f5ed-cbc0-4448-8daa-645f6796a30b",
+          "frames": [
+            {
+              "id": "8594e723-45de-4932-b500-47abe20201c2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "74d9c0dd-32da-43a5-98c7-c171b1c91b7a",
+          "frames": [
+            {
+              "id": "ede40f69-fbc7-4ffe-a565-9dd7ca020ad5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3aab50e4-6206-47a3-b510-5977b0724643",
+          "frames": [
+            {
+              "id": "8cc3a802-94dd-4146-a97a-6d3a2c361d9e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5ea8d6b3-d3f0-4fe4-b80e-0564bc94ca1a",
+          "frames": [
+            {
+              "id": "e6e70731-c075-454b-8517-ec6bccfc6ee6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "31e5d543-5ab8-4a43-92b7-962011785687",
+          "frames": [
+            {
+              "id": "d4766699-09ee-4230-acb8-6561dc6db681",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 1,
+  "canvasOriginX": -12,
+  "canvasOriginY": -24,
+  "canvasWidth": 8,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 8,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Nature/Tree_Stump_1_8x8.png",
+  "width": 8,
+  "height": 8,
+  "checksum": "7046ce55a42b61a7ff78728651248820cb4aed26"
+}
