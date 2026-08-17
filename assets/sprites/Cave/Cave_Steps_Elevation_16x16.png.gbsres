@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "95421358-44c2-4282-bda3-ab35dc7a3b14",
+  "name": "Cave/Cave_Steps_Elevation_16x16",
+  "symbol": "sprite_cave_cave_steps_elev",
+  "states": [
+    {
+      "id": "70815bef-17ac-4127-ab1e-21341d4b1f85",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "2188e55a-15d1-4b5b-8bc1-c2d5ec2bb21f",
+          "frames": [
+            {
+              "id": "c63df653-9e4a-41d7-adeb-19c3db38d916",
+              "tiles": [
+                {
+                  "id": "78741b0a-6669-4cf3-87e4-4ccec8dd265a",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "c644c1b1-9a6d-49ce-be7d-3fd5c4e4c96d",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4a31b850-af7a-46aa-9561-07d63fcc2f5e",
+          "frames": [
+            {
+              "id": "9b9212d1-9d4a-4c8b-8685-8dc1b58105e8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ad26bae5-6e8c-48ee-ba15-9a77febb24ab",
+          "frames": [
+            {
+              "id": "8ca729aa-2138-4b07-a852-6d086bddcbba",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1e22e11d-c84c-4d6d-9b15-2131caa31124",
+          "frames": [
+            {
+              "id": "5ed3ca6c-2dd7-483a-842b-6df0a3344d10",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "88e0dac9-93b0-49df-b388-e7bd64bae200",
+          "frames": [
+            {
+              "id": "537e1920-93c8-40f3-bc3e-9f990bd40b30",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fef93bb5-ffb6-4a04-bd70-78f09bffa76d",
+          "frames": [
+            {
+              "id": "1f94ee76-f9be-4904-8861-886d53f47e21",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "744d5c37-e0fe-4ac2-aa20-8f25e8d683ed",
+          "frames": [
+            {
+              "id": "6f964815-fd26-4da2-a710-274457a0ceea",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1f051322-39e5-4a6e-90b0-9937ff950942",
+          "frames": [
+            {
+              "id": "afa1ac13-b407-4a25-a1fe-3a538ad32ed7",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Cave/Cave_Steps_Elevation_16x16.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "4e88add9f713f40e2e489c71d2a17080b74e1eb7"
+}

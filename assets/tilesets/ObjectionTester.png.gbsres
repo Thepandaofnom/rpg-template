@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "037c0125-7659-478c-8ba6-d27374300131",
+  "name": "ObjectionTester",
+  "symbol": "tileset_objectiontester",
+  "width": 22,
+  "height": 20,
+  "imageWidth": 176,
+  "imageHeight": 160,
+  "filename": "ObjectionTester.png"
+}

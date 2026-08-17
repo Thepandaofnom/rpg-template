@@ -1,0 +1,102 @@
+{
+  "_resourceType": "sprite",
+  "id": "0aba5ed6-38db-4bb6-bff1-5f08cf04e494",
+  "name": "Cave/Cave_Entrance_48x32",
+  "symbol": "sprite_cave_cave_entrance_4",
+  "states": [
+    {
+      "id": "ffff3702-7774-417d-a7d6-87327b602252",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "a9927d4d-2143-4dc6-bcd9-f3d0e5ae0b1f",
+          "frames": [
+            {
+              "id": "f35307e1-a7b9-4b90-b35e-0c6350fd2e13",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f36f8134-3cbd-4a81-9f66-355ef8a02b53",
+          "frames": [
+            {
+              "id": "3da0f50b-5379-44ef-a1a2-aae6602024bb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "06a38929-fe76-4e79-8734-707c7c55beac",
+          "frames": [
+            {
+              "id": "9a902bad-ea18-4b9f-ad07-f194f3e5e7a4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7d95880f-99ab-4d17-8d2c-7a7d9a05cfb5",
+          "frames": [
+            {
+              "id": "7c815cc9-85e4-44e8-b3dc-d494eb187b67",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f658de42-a756-4e50-8edf-abf9122c0405",
+          "frames": [
+            {
+              "id": "9dbbc353-c416-43cd-b224-f0b00d6768a6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "17e48c41-809e-4546-94d4-28cccfeb2dc1",
+          "frames": [
+            {
+              "id": "999143dc-542d-442d-a187-c77b80071111",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bec90f8b-8e21-44e7-a3c9-eb23659654ab",
+          "frames": [
+            {
+              "id": "3b644610-7bce-4997-8f1c-60ac42308a6c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "63eecc14-f2ff-4860-915c-96abaab22944",
+          "frames": [
+            {
+              "id": "e48b8896-b585-45cb-8aa3-05e31153eacb",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Cave/Cave_Entrance_48x32.png",
+  "width": 48,
+  "height": 32,
+  "checksum": "5f6ef83de0b07091586c8eb95f06bd7a12a7cc17"
+}

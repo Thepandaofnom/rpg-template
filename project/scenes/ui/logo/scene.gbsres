@@ -1,7 +1,7 @@
 {
   "_resourceType": "scene",
   "id": "ae935618-440c-4562-b07b-52d27917c33f",
-  "_index": 0,
+  "_index": 1,
   "name": "ui/logo",
   "backgroundId": "a5eabb4e-9c40-4946-9373-af0986f550cf",
   "tilesetId": "",
@@ -23,8 +23,8 @@
   "collisions": "",
   "autoFadeSpeed": 1,
   "symbol": "scene_1",
-  "x": 88,
-  "y": 40,
+  "x": 60,
+  "y": 224,
   "script": [
     {
       "command": "EVENT_ACTOR_DEACTIVATE",

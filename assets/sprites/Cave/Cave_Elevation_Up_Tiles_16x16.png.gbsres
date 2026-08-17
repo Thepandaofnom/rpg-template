@@ -1,0 +1,102 @@
+{
+  "_resourceType": "sprite",
+  "id": "7db91611-3e11-41ac-9827-c96879611808",
+  "name": "Cave/Cave_Elevation_Up_Tiles_16x16",
+  "symbol": "sprite_cave_cave_elevation_",
+  "states": [
+    {
+      "id": "9b151e9d-d4f6-4803-b739-53dcb9e30056",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "7e3bc683-2c66-45ef-b64b-5514e3d28221",
+          "frames": [
+            {
+              "id": "f9b86525-704f-44c1-a371-8b1294b0d422",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d7f0b3d9-51e2-471f-b29e-502d8f936495",
+          "frames": [
+            {
+              "id": "b7495aa9-481b-4119-908b-f0ed204adb32",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "26b3d36c-764e-4ee5-b813-fdb10a3d4987",
+          "frames": [
+            {
+              "id": "159d9b1b-30fe-4978-aaba-85ef8732a468",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b2145d9f-7f43-4857-ad4c-9ca7a51bcbb6",
+          "frames": [
+            {
+              "id": "65777e49-8b26-498a-9675-3f06fd5aa72f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8c7de681-2763-4502-a5e7-7fbd1bbbe567",
+          "frames": [
+            {
+              "id": "c1af1bb7-5b6f-4382-bd7d-35fe994420b7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ef56d285-7657-4cd0-bdb8-5c86c5e4f11e",
+          "frames": [
+            {
+              "id": "7e9d1520-aad3-4710-81a0-9cb41a4a9d4e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a975d96a-4244-40b5-95d6-12c8c8306ee6",
+          "frames": [
+            {
+              "id": "f19a9201-3ffb-4014-b509-0bc26e1b9dac",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "cb10ed61-3957-4061-8513-f940f4a0d00d",
+          "frames": [
+            {
+              "id": "a4a7bd85-828b-4102-8da5-012569acaaf3",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Cave/Cave_Elevation_Up_Tiles_16x16.png",
+  "width": 48,
+  "height": 48,
+  "checksum": "b0e0e431e41ced2c490288bb2e4a606b3d6455ee"
+}

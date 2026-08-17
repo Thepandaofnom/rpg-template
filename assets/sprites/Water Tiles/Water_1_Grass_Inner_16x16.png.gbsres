@@ -1,0 +1,102 @@
+{
+  "_resourceType": "sprite",
+  "id": "319a5d9c-9ca6-42c9-b077-d07a041bffa6",
+  "name": "Water Tiles/Water_1_Grass_Inner_16x16",
+  "symbol": "sprite_water_tiles_water_3",
+  "states": [
+    {
+      "id": "811ef3f1-3b97-4021-89ec-99a620a6a642",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "e63ce1d1-4b7d-4224-b0d3-858814d67d6b",
+          "frames": [
+            {
+              "id": "463cb49e-9f52-462b-9d66-52ab2f3188fb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5bda5025-538d-4d3b-b042-a1a21b295cd4",
+          "frames": [
+            {
+              "id": "f5bcc05c-f3ad-4310-a9a7-22b479523c83",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "896c8c4f-32e0-4606-aa18-d59ed24587da",
+          "frames": [
+            {
+              "id": "48e824eb-f56e-459d-bdb0-ea66fcf78363",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7ffc8198-d540-407a-82a2-9334c8406e1d",
+          "frames": [
+            {
+              "id": "6d157041-48f1-454b-a259-010e4fdad74f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d7f1539a-4741-42d3-908e-9b30aef3b793",
+          "frames": [
+            {
+              "id": "b51abc06-1bd4-4767-a2ef-b57a8826492d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "dd11264e-e93a-49b0-af00-d0ee6494b794",
+          "frames": [
+            {
+              "id": "123358aa-015f-4881-8333-82bf2e9c3c79",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f6b4a903-14b2-453b-88d2-4e28dcf045b3",
+          "frames": [
+            {
+              "id": "63371099-7da3-4026-a9bb-deb39c1581fb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c534051c-a4b8-4fcc-97d8-302b27de733b",
+          "frames": [
+            {
+              "id": "ce619743-89dd-4326-a53a-69213c1d4d82",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Water Tiles/Water_1_Grass_Inner_16x16.png",
+  "width": 48,
+  "height": 48,
+  "checksum": "0ebe63de74effb1f963271f958f656b618f75271"
+}

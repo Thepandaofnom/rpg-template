@@ -41,6 +41,19 @@
                   "paletteIndex": 3,
                   "objPalette": "OBP0",
                   "priority": false
+                },
+                {
+                  "id": "964b2925-38d7-4cc4-a397-de0aa4e25559",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
                 }
               ]
             }

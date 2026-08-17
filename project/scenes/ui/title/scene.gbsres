@@ -1,7 +1,7 @@
 {
   "_resourceType": "scene",
   "id": "52fba273-5a4c-4407-8f7d-29b6f673cc57",
-  "_index": 1,
+  "_index": 3,
   "name": "ui/title",
   "backgroundId": "6140d4b4-4773-4617-af47-43e72f7f7385",
   "tilesetId": "",
@@ -23,9 +23,9 @@
   "spritePaletteIds": [],
   "collisions": "00168+",
   "autoFadeSpeed": 1,
-  "symbol": "scene_2",
-  "x": 272,
-  "y": 40,
+  "symbol": "scene_0",
+  "x": 240,
+  "y": 224,
   "script": [
     {
       "command": "EVENT_MUSIC_PLAY",

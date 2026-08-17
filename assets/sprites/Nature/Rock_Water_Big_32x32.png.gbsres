@@ -1,0 +1,207 @@
+{
+  "_resourceType": "sprite",
+  "id": "06c65592-8469-468b-817c-d663daf9042e",
+  "name": "Nature/Rock_Water_Big_32x32",
+  "symbol": "sprite_nature_rock_water_bi",
+  "states": [
+    {
+      "id": "68454b1e-89d2-4b09-bce4-f8afc931b3ff",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "5ca3b695-e653-4b44-af89-e6a845842aab",
+          "frames": [
+            {
+              "id": "838acad1-c963-4260-b25c-401a3d80031d",
+              "tiles": [
+                {
+                  "id": "606350f1-9c32-46fd-8fd7-1683ea18040f",
+                  "x": -8,
+                  "y": 16,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "9d731067-5ad3-4e59-8fa5-aec4b61737a2",
+                  "x": -8,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 16,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "dc2c7def-b806-4299-977c-136031e80cb7",
+                  "x": 0,
+                  "y": 16,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "386a6ac5-6fac-4c60-8f14-98914c3798f1",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 16,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "84926f24-db19-40e8-a90a-60143988d232",
+                  "x": 8,
+                  "y": 16,
+                  "sliceX": 16,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "8559cb2e-c47c-4710-b2f0-688febaa18d2",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 16,
+                  "sliceY": 16,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "b22f62ad-d441-484a-9d88-d1a3bc4bc2ed",
+                  "x": 16,
+                  "y": 16,
+                  "sliceX": 24,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "06b907d9-d104-47c3-896e-1b6b1f7c25da",
+                  "x": 16,
+                  "y": 0,
+                  "sliceX": 24,
+                  "sliceY": 16,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "91983388-30c4-45e1-aa81-d5cf0e3238d2",
+          "frames": [
+            {
+              "id": "7205f273-b3bf-4331-9b0e-730209b53f02",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ad9ff1e3-805b-4a67-87d8-e274a5d0e7e7",
+          "frames": [
+            {
+              "id": "d77fa0d9-077f-48a6-8ded-0580277e0649",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f4b3c8bb-c5be-4088-b95c-043981a366fe",
+          "frames": [
+            {
+              "id": "b13313e5-66c6-4e29-89c1-ecf87950200d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "33c57482-f5a2-481e-afa0-31f5901e46db",
+          "frames": [
+            {
+              "id": "cab76827-7190-410d-bc07-db6d9f2ae5e6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f22b893d-6d70-476d-b11c-e31f6f2ef721",
+          "frames": [
+            {
+              "id": "8fcc1b88-ccce-4fd6-ad0e-f052ce8ee7aa",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "985eeeeb-5b4b-43ec-a468-c1bedbcc710a",
+          "frames": [
+            {
+              "id": "871b7739-a86e-49ec-bfd4-6b8d6f98a7c4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fc9cfe45-851d-4f44-bb68-f8bf343d8225",
+          "frames": [
+            {
+              "id": "4be216ab-baec-4dc2-aa58-8cdbb3966366",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 8,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Nature/Rock_Water_Big_32x32.png",
+  "width": 32,
+  "height": 32,
+  "checksum": "67ee20e3058369f10ca62410de953c22957b99b2"
+}

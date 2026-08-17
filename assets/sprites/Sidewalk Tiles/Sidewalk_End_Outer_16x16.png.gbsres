@@ -1,0 +1,102 @@
+{
+  "_resourceType": "sprite",
+  "id": "d45834fd-5b85-4356-832b-bff949ae4ebc",
+  "name": "Sidewalk Tiles/Sidewalk_End_Outer_16x16",
+  "symbol": "sprite_sidewalk_tiles_sidew_0",
+  "states": [
+    {
+      "id": "3287d82f-fb4a-4724-a150-832cb442b7c3",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "194ccbf1-363f-4888-8a70-ec81bbab893b",
+          "frames": [
+            {
+              "id": "ab4522a1-f4fe-4c43-9c10-c69d3aaa0a8d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "923477b1-7c56-43c3-9460-e1bfdbcb3bfb",
+          "frames": [
+            {
+              "id": "c4e6f104-4e86-4b54-baef-07d3e5d35f04",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3e4b30bb-3dd5-4dba-9a56-0b81d4c6b073",
+          "frames": [
+            {
+              "id": "8a81ab88-bf69-4172-acb9-6a1e5f26d932",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "28279221-471e-40d4-95be-5f88d7728fc5",
+          "frames": [
+            {
+              "id": "bab6285d-5abf-4164-b252-813d4d8a310e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a534c110-6aa0-43b1-ab99-ee784dfdb2b2",
+          "frames": [
+            {
+              "id": "1decb4ac-fcb5-4e7b-861d-5c929b2e05f2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "217f2e30-e0bd-440e-bf9c-122baa3f6c5e",
+          "frames": [
+            {
+              "id": "8f206576-02ec-4afa-9252-312cc71da673",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "987cb0d7-febb-4ca8-aadf-13775abe3f25",
+          "frames": [
+            {
+              "id": "678d0013-d2c2-41e8-94ed-b08b7d4892ed",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3243fa08-5b5e-4d54-a0ac-cd3a87a0a708",
+          "frames": [
+            {
+              "id": "a2f9dd15-d66d-4850-ba35-b0810abd515b",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Sidewalk Tiles/Sidewalk_End_Outer_16x16.png",
+  "width": 48,
+  "height": 48,
+  "checksum": "9f8e12d9ad47a6c47d963ce36be0e42fa5461cbb"
+}

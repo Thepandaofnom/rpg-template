@@ -1,0 +1,160 @@
+{
+  "_resourceType": "sprite",
+  "id": "f7e4f437-6995-4a20-b160-0fbc60b6e6c2",
+  "name": "Man made/Signs_16x16",
+  "symbol": "sprite_man_made_signs_16x16",
+  "states": [
+    {
+      "id": "167367fd-d2dc-479e-95c4-8eaaed4124c3",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "68f9b14a-22e4-4955-9328-6f461f9f8826",
+          "frames": [
+            {
+              "id": "1558e349-65ae-45a5-b54a-dcb7eab2cd7d",
+              "tiles": [
+                {
+                  "id": "cd96e8b5-04d0-4a81-a706-7c0deb00c687",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "a780976f-a528-41e5-aea6-d8bdd514475b",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            },
+            {
+              "id": "30de2b7c-5a25-4be1-8089-9bce9b0b5010",
+              "tiles": [
+                {
+                  "id": "5ba33640-d6a5-4644-be0c-53404cfc9ee2",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 16,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "03f3f661-c60f-4157-ba25-561d1bce8fff",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 24,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a230d249-26c6-4e05-83e6-bfb2b4215f88",
+          "frames": [
+            {
+              "id": "b24dec73-4567-412d-93c9-f02cd11d4a9a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "10a79ab1-1fbe-4986-b5bd-731b6e86507b",
+          "frames": [
+            {
+              "id": "dd0b89ce-aeeb-45ae-aa64-40cc4ae2dc0a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "76c5c567-ace8-4663-9f7f-6cede469bc57",
+          "frames": [
+            {
+              "id": "4e1a03c7-9097-4098-89b7-6422b078dd0a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "89ddf6a2-5d1b-40eb-a773-4ae7ebba64d4",
+          "frames": [
+            {
+              "id": "962d0799-939c-4eb4-9302-e63e5ed23e66",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d0b79d6c-aaf9-4e14-9067-e91cab83ea98",
+          "frames": [
+            {
+              "id": "70c8d94b-a481-4f29-8a41-be89c0c1e5a2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "239c6b15-1e11-466a-b397-f14cc12ceba5",
+          "frames": [
+            {
+              "id": "ee0f568d-4637-4ad4-81f5-294bd45e97c2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0c09269b-b648-40e2-a791-b789dc970afa",
+          "frames": [
+            {
+              "id": "0ac73c51-5167-4ff4-9801-ec621aef8ac8",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 4,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Man made/Signs_16x16.png",
+  "width": 32,
+  "height": 16,
+  "checksum": "67e70135a5dd8b6ede782cecb8bdf5db65c443d6"
+}

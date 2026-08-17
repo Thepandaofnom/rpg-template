@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "c526097b-36d7-4276-ae0d-e4d3802e65dd",
+  "name": "GB Studio Intro",
+  "symbol": "tileset_gb_studio_intro",
+  "width": 1,
+  "height": 1,
+  "imageWidth": 8,
+  "imageHeight": 8,
+  "filename": "GB Studio Intro.png"
+}

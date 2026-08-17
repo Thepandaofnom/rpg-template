@@ -1,11 +1,11 @@
 {
   "_resourceType": "settings",
-  "startSceneId": "ae935618-440c-4562-b07b-52d27917c33f",
-  "startX": 0,
-  "startY": 0,
+  "startSceneId": "288a01a0-f315-488f-8e57-27befe13d371",
+  "startX": 1,
+  "startY": 10,
   "startMoveSpeed": 1,
   "startAnimSpeed": 15,
-  "startDirection": "right",
+  "startDirection": "down",
   "showCollisionExtraTiles": false,
   "showCollisionTileValues": false,
   "collisionLayerOpacity": 50,
@@ -50,7 +50,7 @@
     2,
     3
   ],
-  "defaultFontId": "4bd653f0-e08d-424e-9e5b-c1f3aaa21e47",
+  "defaultFontId": "8ed435d9-51cb-44e7-8b0d-ca85e63ca427",
   "defaultCharacterEncoding": "",
   "defaultPlayerSprites": {
     "TOPDOWN": "581d34d0-9591-4e6e-a609-1d94f203b0cd",
@@ -99,7 +99,7 @@
   "customControlsSelect": [
     "Shift"
   ],
-  "colorMode": "color",
+  "colorMode": "mixed",
   "colorCorrection": "default",
   "generateDebugFilesEnabled": false,
   "compilerPreset": 3000,
@@ -112,6 +112,6 @@
   "romFilename": "",
   "defaultSceneTypeId": "TOPDOWN",
   "disabledSceneTypeIds": [],
-  "autoTileFlipEnabled": true,
+  "autoTileFlipEnabled": false,
   "webTemplate": ""
 }

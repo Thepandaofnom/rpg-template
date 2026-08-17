@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "57e08d95-dd05-4c8f-a4e5-82e0c7e65d8c",
+  "name": "Cave/Cave_Strairs_Up_16x16",
+  "symbol": "sprite_cave_cave_strairs_up",
+  "states": [
+    {
+      "id": "d6dd16fc-d7c6-42a1-a708-92c29f194202",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "cef2b5db-3bfb-44e4-8a0e-7a4ac84e0fa6",
+          "frames": [
+            {
+              "id": "ba944935-a803-4ade-99a7-06bc93a57010",
+              "tiles": [
+                {
+                  "id": "8c435af1-8578-4264-9564-062d424f6284",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "dc201de7-e968-41b4-bb43-9522403e863e",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "87a421c7-53eb-44be-b516-feb915a760c0",
+          "frames": [
+            {
+              "id": "4b27d720-b217-4799-bd96-d39ea61ff39e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "53697342-82bf-4665-b9b8-654b19d519bc",
+          "frames": [
+            {
+              "id": "8d74465f-5ee2-43bf-a9b6-a00dd4b78724",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1248374e-8ae0-4a4c-b085-a781c8867557",
+          "frames": [
+            {
+              "id": "5883b4d0-acc3-461e-83af-e58e37db3ceb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ad7dcebe-def8-4e5b-abdd-43ad17e5a8ce",
+          "frames": [
+            {
+              "id": "f1e642c2-6b9f-4943-8b48-5e90e2f93a2e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "383b50eb-03bb-427c-937c-ce17982b6849",
+          "frames": [
+            {
+              "id": "37698b7d-6851-4a04-966e-9a4aea20398d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b6b4339b-4fc9-49cb-931b-bfdfcb86bc96",
+          "frames": [
+            {
+              "id": "e8f082d0-ddb2-4ce0-bd1d-3cb15621677c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3d196a53-9029-4edc-bf63-d4c9b2d7bb6a",
+          "frames": [
+            {
+              "id": "a5210553-6a36-4b8f-8248-a9cead1eb343",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Cave/Cave_Strairs_Up_16x16.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "e6e0665e548daab12510a6e02df78655dc21452f"
+}

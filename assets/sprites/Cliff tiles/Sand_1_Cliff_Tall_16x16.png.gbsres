@@ -1,0 +1,102 @@
+{
+  "_resourceType": "sprite",
+  "id": "497e627c-3874-46bb-a08a-ec0b0fb356a8",
+  "name": "Cliff tiles/Sand_1_Cliff_Tall_16x16",
+  "symbol": "sprite_cliff_tiles_sand_c_0",
+  "states": [
+    {
+      "id": "d633454d-6b06-4647-9da0-cb16935ee613",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "475266be-e523-4ec6-a009-28abafc6ec16",
+          "frames": [
+            {
+              "id": "cb5eca78-efc2-4222-8cfe-856befde43e8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7ec3a540-e821-405e-9152-4dffd580b264",
+          "frames": [
+            {
+              "id": "f262eeea-4cbe-4067-89d6-daadc0834ef2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f6e66ba4-8b53-4e75-86da-e6e2de4951df",
+          "frames": [
+            {
+              "id": "00bf7cf7-1dae-4611-a224-11223baffeef",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f9c73aea-83f7-4f07-baa8-af74fe6b4928",
+          "frames": [
+            {
+              "id": "e7a03cf8-5c04-4630-8399-87fb38be847f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9028c4bc-cf22-49b1-8065-3edab189d871",
+          "frames": [
+            {
+              "id": "675c7258-1922-4367-9c25-ce75b911dc82",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "aeca2ddf-0820-48e5-9a9d-87e363b21f6d",
+          "frames": [
+            {
+              "id": "45e9b6fd-50a6-4aab-aa51-59c4c48fe74e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "43f51b08-3da7-42b2-89c4-a32a76a26984",
+          "frames": [
+            {
+              "id": "e220db63-8f1e-4da3-812f-8cfa377b2227",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "cc7922d7-a634-47c1-9f80-1bc8a783086d",
+          "frames": [
+            {
+              "id": "1802ed49-4440-42e5-93e4-ecaa5864043e",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Cliff tiles/Sand_1_Cliff_Tall_16x16.png",
+  "width": 48,
+  "height": 64,
+  "checksum": "e8f090d7fa6948ead5e735deefc7ec5c1ba18384"
+}

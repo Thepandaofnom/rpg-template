@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "4ddec19b-ffca-4ee2-b85a-18efd3b2f592",
+  "name": "Nature/Reeds_Short_16x16",
+  "symbol": "sprite_nature_reeds_short_1",
+  "states": [
+    {
+      "id": "47f4a4cc-3b20-465a-9e27-fd8adc05c7fb",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "759506cd-15d0-4961-9efa-8d689786a70c",
+          "frames": [
+            {
+              "id": "4bdc5773-3b66-4088-a67e-92e2f0f77a7f",
+              "tiles": [
+                {
+                  "id": "945c7cf1-7d42-4e58-8ba8-2d833e1a56c2",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "9d8d07a8-1297-4ade-a74c-d3b518fee88b",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "93b01d86-c846-4d75-b9fc-6b60c291172e",
+          "frames": [
+            {
+              "id": "51df94a9-c175-4dbd-bd0d-6f3674d8063d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7d486972-5534-4c6e-942a-e39ebee4342f",
+          "frames": [
+            {
+              "id": "efadcc31-d6c8-4074-909c-06c1478d29bd",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "cb964219-bd94-45cf-9625-92091ba21f8d",
+          "frames": [
+            {
+              "id": "265fee1b-98f9-44ea-8edf-e961a0e759ff",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3b1a776c-24d6-4e32-9949-7ab2b83dbd4a",
+          "frames": [
+            {
+              "id": "20990d8b-98bd-48de-9b29-03881df6591f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4f2956eb-64fa-4277-95c3-436689e6f040",
+          "frames": [
+            {
+              "id": "51bc0926-94c1-4056-b648-ba1084bebca1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e1d51a11-8290-45fb-a01a-b9d41b3d4da6",
+          "frames": [
+            {
+              "id": "facc7c04-5bfa-4942-a954-b2bdeaf1a20f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ded55f59-3a55-48cd-b781-d9a43764a997",
+          "frames": [
+            {
+              "id": "47f01e5b-5e8d-4be7-8a65-e337d23f020f",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Nature/Reeds_Short_16x16.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "0346723ad9b41057c68fa42036404ad3216aeef3"
+}

@@ -1,0 +1,116 @@
+{
+  "_resourceType": "sprite",
+  "id": "10a9dea6-05d9-40b3-9e63-6e80d2b72c9c",
+  "name": "Nature/Cactus_4",
+  "symbol": "sprite_nature_cactus_4",
+  "states": [
+    {
+      "id": "fd2a8162-15a6-4b4d-8f12-d7950e19637d",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "547c832b-6570-4c87-adce-2031bdfcec0a",
+          "frames": [
+            {
+              "id": "69876550-a8f1-4072-8375-f17f22ed11bb",
+              "tiles": [
+                {
+                  "id": "8fde5303-c9bf-40ce-8d99-c447ac860bf1",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": -8,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a44ac4e3-9b7a-4d16-8432-fec158e6b316",
+          "frames": [
+            {
+              "id": "e59153c7-afb9-4eb7-b423-2a3430213235",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "deadd8fe-e316-4e29-8b73-1a2af53953fa",
+          "frames": [
+            {
+              "id": "5225a87f-807e-47fd-a397-f3bd5a3e5092",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1092c90f-93ed-4c5b-a80e-133c4bd1ab32",
+          "frames": [
+            {
+              "id": "6fcd66a0-2f02-49ec-9b6d-59b3e956e003",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "633e78fd-baea-4e8c-a4e6-45e008453a74",
+          "frames": [
+            {
+              "id": "0f1900f3-350b-43b0-923c-ddcff474583e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bc7e44f4-ae5b-4e76-aaaa-77964aa1626d",
+          "frames": [
+            {
+              "id": "91071295-95f7-48cc-9c0d-15a323ffeaaf",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "063b44b5-0717-440b-904c-b12c31699379",
+          "frames": [
+            {
+              "id": "a6506987-aa56-46dd-9c65-0871c4b9a231",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d6c0d911-f89c-4d9a-9305-01b95a21fdca",
+          "frames": [
+            {
+              "id": "b2b5803d-5ecd-42b1-a6ff-b75461cd7fbe",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 1,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 8,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 8,
+  "boundsHeight": 0,
+  "animSpeed": 15,
+  "filename": "Nature/Cactus_4.png",
+  "width": 8,
+  "height": 8,
+  "checksum": "e0d0eb36b4707042177b9726a448d6362ed8e19f"
+}

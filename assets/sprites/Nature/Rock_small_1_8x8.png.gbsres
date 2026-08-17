@@ -1,0 +1,116 @@
+{
+  "_resourceType": "sprite",
+  "id": "cf46376c-ad75-47b7-937f-f107c75018eb",
+  "name": "Nature/Rock_small_1_8x8",
+  "symbol": "sprite_nature_rock_small_1_",
+  "states": [
+    {
+      "id": "d3f901da-3d6a-4b23-bd55-cc48ae9095d3",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "e9ec48fc-a20a-4a5c-8fd3-91403b27c701",
+          "frames": [
+            {
+              "id": "32a4786e-536e-4cb0-a835-f7237aa8f53c",
+              "tiles": [
+                {
+                  "id": "216c4f00-3aeb-4643-95ef-661aea6f2d4d",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": -8,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "114910f9-aeaa-456e-aa39-057857866ea5",
+          "frames": [
+            {
+              "id": "d144e0f4-33d6-48b8-9ea4-0a645ab4b964",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f09c76a6-4b28-442c-a373-9747cc761d14",
+          "frames": [
+            {
+              "id": "24aa7598-1e6b-4a9c-b375-bf5d5505fed6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c980346e-d7af-412f-884d-72d54fe1f017",
+          "frames": [
+            {
+              "id": "026ddf1f-d04d-45e4-b526-e984789d9c9a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c04be2fa-efa1-4184-a951-a9295df50575",
+          "frames": [
+            {
+              "id": "cdd0b9b4-3fca-4027-9ce8-1960b5e4e5bb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "434467d4-a05b-435f-b7e6-dda232a60055",
+          "frames": [
+            {
+              "id": "af6fc7ee-0c3e-41f5-af38-c069f9d40add",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8f382206-a0b8-496f-b2b7-13724bb7a128",
+          "frames": [
+            {
+              "id": "56d68e2d-2b7b-4f91-91df-c38ad74bb569",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5dfedc1b-17d5-40af-94c2-33237a23baf8",
+          "frames": [
+            {
+              "id": "f1bdbd9c-6e46-4236-9916-567585d6e601",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 1,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 8,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Nature/Rock_small_1_8x8.png",
+  "width": 8,
+  "height": 8,
+  "checksum": "ddce6eaa632d13cad694dfac56ce9be6e849ec31"
+}

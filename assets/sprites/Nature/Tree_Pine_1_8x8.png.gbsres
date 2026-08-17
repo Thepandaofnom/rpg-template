@@ -1,0 +1,116 @@
+{
+  "_resourceType": "sprite",
+  "id": "7c8df418-98e5-4991-9c1e-d8ffc1facc07",
+  "name": "Nature/Tree_Pine_1_8x8",
+  "symbol": "sprite_nature_tree_pine_1_8",
+  "states": [
+    {
+      "id": "cf0de63c-448b-417e-8436-0f5c1af9504a",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "2c6684ef-3bd6-40d5-aa6e-99381de188d3",
+          "frames": [
+            {
+              "id": "c4e2d055-caa7-4d0d-bf35-baee1dd052fb",
+              "tiles": [
+                {
+                  "id": "b31eebf1-72bc-426e-9a4e-3e59bbdd4c59",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": -8,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "348130f2-659f-4576-9d54-0081189d89c2",
+          "frames": [
+            {
+              "id": "0a064163-e9b6-4afb-949d-d701a9a8fa18",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "eeb9326c-92a3-463e-a32c-55a34ac4246d",
+          "frames": [
+            {
+              "id": "ff0f4926-e6b9-45a1-b7b1-df1dfabeb285",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3e296918-7925-4725-a0cb-ba7ade39fd5f",
+          "frames": [
+            {
+              "id": "e4e82704-430b-4fef-804b-cf21ca642801",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e00ea8d7-97d1-4bd9-afd0-2e02ef0f599a",
+          "frames": [
+            {
+              "id": "7b7f3067-1ce8-439c-a127-130f4f2394de",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "34042132-993c-4149-bb8f-080939c9583c",
+          "frames": [
+            {
+              "id": "dcc86e17-179b-4218-a741-329465a8e183",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a9edf661-bf5f-4e74-b8ba-012fe14f6081",
+          "frames": [
+            {
+              "id": "31bb9ed8-8ac1-44c9-aa04-aee41e8754d1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f4e9f6cc-9acb-4118-ac9a-505ee9e0128c",
+          "frames": [
+            {
+              "id": "5c5ba9c6-fa65-4175-bb2e-2f0c09a12780",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 1,
+  "canvasOriginX": 0,
+  "canvasOriginY": -8,
+  "canvasWidth": 8,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 1,
+  "boundsHeight": 18,
+  "animSpeed": 15,
+  "filename": "Nature/Tree_Pine_1_8x8.png",
+  "width": 8,
+  "height": 8,
+  "checksum": "08fcf7546b384bdea5c544310065f570d4fdf6f9"
+}

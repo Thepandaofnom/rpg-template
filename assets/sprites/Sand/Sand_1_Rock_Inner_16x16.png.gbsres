@@ -1,0 +1,102 @@
+{
+  "_resourceType": "sprite",
+  "id": "e92f2619-f9c5-440a-afcf-6a7403f6c288",
+  "name": "Sand/Sand_1_Rock_Inner_16x16",
+  "symbol": "sprite_sand_sand_1_rock_inn",
+  "states": [
+    {
+      "id": "4a8593cb-9228-4c24-b870-7ad423f781fe",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "164f69a5-c87c-46ba-bd57-68dc524757d8",
+          "frames": [
+            {
+              "id": "de70b621-8862-4bbb-893f-c13a0db7b7df",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "465d33f9-a438-4e87-9c63-5ef7b1f6a874",
+          "frames": [
+            {
+              "id": "92910ff8-5f09-43fe-9e14-b3e802c57913",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e7c4843a-b8ef-4e77-a310-5bd47ea48e52",
+          "frames": [
+            {
+              "id": "c9f6feed-094c-41a4-9a24-38ecf1251967",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5c609cf7-2b70-4026-9392-52224edad88c",
+          "frames": [
+            {
+              "id": "dac5c966-9cb3-44e7-b87d-4da599008ba5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f7eb295d-fe56-46d2-8917-edca24e2d16c",
+          "frames": [
+            {
+              "id": "3f56d614-8add-4cee-a56a-50efc4ef7ae1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "21268bfa-66d7-4c39-b911-f0a378ea93f8",
+          "frames": [
+            {
+              "id": "9202f7d4-1881-4a9b-9754-dd9712d81d36",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a1efe8a1-c1df-4877-8067-abab3c41b039",
+          "frames": [
+            {
+              "id": "bc2ccde1-a4a8-4cb4-93d1-e6f8fee216ea",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0b5f19b5-07ca-4611-b22d-cccbecc1a491",
+          "frames": [
+            {
+              "id": "6bd63a6e-6dfb-4a35-83cb-9280494cc060",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Sand/Sand_1_Rock_Inner_16x16.png",
+  "width": 48,
+  "height": 48,
+  "checksum": "30edc45f0ae6c4628d7a3448557c379d4e9df723"
+}
