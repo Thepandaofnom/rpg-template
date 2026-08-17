@@ -1,8 +1,8 @@
-\#Placeholder asset list
+# Placeholder asset list
 
 
 
-\*\*Scenes\*\*
+**Scenes**
 
 * logo - dev team logo, game logo.
 * title - game title screen.
@@ -11,7 +11,7 @@
 
 
 
-\*\*sprites\*\*
+**sprites**
 
 * player - character the player controls.
 * npc - characters player interact with. see subsection NPC for list of npc.
@@ -19,9 +19,9 @@
 
 
 
-\*\*NPC\*\*
+**NPC**
 
 
 
-\*\*World Objects\*\*
+**World Objects**
 
