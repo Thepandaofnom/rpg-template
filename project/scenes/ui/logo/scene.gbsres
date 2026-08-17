@@ -1,0 +1,92 @@
+{
+  "_resourceType": "scene",
+  "id": "ae935618-440c-4562-b07b-52d27917c33f",
+  "_index": 0,
+  "name": "ui/logo",
+  "backgroundId": "a5eabb4e-9c40-4946-9373-af0986f550cf",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "colorModeOverride": "color",
+  "paletteIds": [
+    "edincans-title-gold",
+    "edincans-dawn-sky",
+    "edincans-living-realm",
+    "edincans-sacred-steel",
+    "edincans-cursed-sky",
+    "edincans-evil-realm",
+    "edincans-title-gold",
+    "edincans-title-gold"
+  ],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_1",
+  "x": 88,
+  "y": 40,
+  "script": [
+    {
+      "command": "EVENT_ACTOR_DEACTIVATE",
+      "args": {
+        "actorId": "$self$"
+      },
+      "id": "86d36086-ff60-4e8c-87c1-391cfb54e382"
+    },
+    {
+      "command": "EVENT_OVERLAY_SHOW",
+      "args": {
+        "color": "black",
+        "x": 0,
+        "y": 0
+      },
+      "id": "dcf3beab-4a0a-42c4-8ee6-85ed17e80b38"
+    },
+    {
+      "command": "EVENT_OVERLAY_MOVE_TO",
+      "args": {
+        "x": 0,
+        "y": 18,
+        "speed": 1,
+        "__collapse": false
+      },
+      "id": "ad6993ed-c97d-4833-810a-ed423be10d34"
+    },
+    {
+      "command": "EVENT_WAIT",
+      "args": {
+        "time": {
+          "type": "number",
+          "value": 2
+        },
+        "frames": {
+          "type": "number",
+          "value": 1
+        }
+      },
+      "id": "aedaa5f6-7190-4c9d-897a-5a7e2f1d4f38"
+    },
+    {
+      "command": "EVENT_SWITCH_SCENE",
+      "args": {
+        "sceneId": "52fba273-5a4c-4407-8f7d-29b6f673cc57",
+        "x": {
+          "type": "number",
+          "value": 0
+        },
+        "y": {
+          "type": "number",
+          "value": 0
+        },
+        "direction": "",
+        "fadeSpeed": 2
+      },
+      "id": "a9d8d3c8-39a5-4bed-aed4-34143bb47ae9"
+    }
+  ],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "autoFadeEventCollapse": false,
+  "playerSpriteSheetId": "ac1e8ef4-ffe6-47cd-b16f-9af5da77ec26"
+}

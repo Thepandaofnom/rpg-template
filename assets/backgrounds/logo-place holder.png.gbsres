@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "a5eabb4e-9c40-4946-9373-af0986f550cf",
+  "name": "logo-place holder",
+  "symbol": "bg_edincans_crusade_title_c",
+  "tileColors": "00168+",
+  "filename": "logo-place holder.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": true
+}

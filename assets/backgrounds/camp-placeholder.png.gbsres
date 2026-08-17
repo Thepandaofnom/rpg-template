@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "261c9c21-d535-48fd-bece-ba2659297e51",
+  "name": "camp-placeholder",
+  "symbol": "bg_edincans_modern_forest_c",
+  "tileColors": "00168+",
+  "filename": "camp-placeholder.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": true
+}

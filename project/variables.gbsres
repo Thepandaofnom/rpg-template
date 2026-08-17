@@ -1,0 +1,31 @@
+{
+  "_resourceType": "variables",
+  "variables": [
+    {
+      "id": "52fba273-5a4c-4407-8f7d-29b6f673cc57__L0",
+      "name": "Menu Choice",
+      "symbol": "var_menu_choice_0"
+    },
+    {
+      "id": "f6164a86-5fcd-4afb-9ac6-e6848ef00b90__L0",
+      "name": "hello",
+      "symbol": "var_hello"
+    },
+    {
+      "id": "a262cf2a-a7e6-438c-8903-6bed749b6ed5__L0",
+      "name": "hello",
+      "symbol": "var_hello_0"
+    },
+    {
+      "id": "0",
+      "name": "Variable 0",
+      "symbol": "var_variable_0"
+    },
+    {
+      "id": "e330da47-d284-4aa6-a2e8-277ac281a61c__L0",
+      "name": "willhelp",
+      "symbol": "var_willhelp"
+    }
+  ],
+  "constants": []
+}
