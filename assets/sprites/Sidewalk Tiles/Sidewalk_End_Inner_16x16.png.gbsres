@@ -2,7 +2,7 @@
   "_resourceType": "sprite",
   "id": "520a84d4-c521-4f0a-b053-55ed7a6ff9fa",
   "name": "Sidewalk Tiles/Sidewalk_End_Inner_16x16",
-  "symbol": "sprite_sidewalk_tiles_sidew_1",
+  "symbol": "sprite_sidewalk_tiles_sidew",
   "states": [
     {
       "id": "dbb0f863-6950-4ae0-944f-8793f40031ad",

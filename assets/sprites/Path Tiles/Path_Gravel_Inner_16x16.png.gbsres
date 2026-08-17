@@ -2,7 +2,7 @@
   "_resourceType": "sprite",
   "id": "451ff25e-741d-4227-a560-6ad9866f3f44",
   "name": "Path Tiles/Path_Gravel_Inner_16x16",
-  "symbol": "sprite_path_tiles_path_grav_0",
+  "symbol": "sprite_path_tiles_path_grav",
   "states": [
     {
       "id": "7b675b79-f8a6-4c6b-8b9d-0ddaf04cc0b9",
