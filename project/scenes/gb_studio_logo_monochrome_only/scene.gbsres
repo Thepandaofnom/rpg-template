@@ -14,7 +14,7 @@
   "colorModeOverride": "none",
   "paletteIds": [],
   "spritePaletteIds": [],
-  "autoFadeSpeed": null,
+  "autoFadeSpeed": 1,
   "playerSpriteSheetId": "daf95270-e30d-423b-9ee7-990ae29f57f6",
   "script": [
     {

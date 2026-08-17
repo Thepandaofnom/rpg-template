@@ -20,7 +20,7 @@
     {
       "command": "EVENT_GBVM_SCRIPT",
       "args": {
-        "script": "VM_OVERLAY_SHOW 0, 16, .UI_COLOR_WHITE, 0"
+        "script": "VM_OVERLAY_SHOW 0, 16, .UI_COLOR_WHITE, 0\n\nVM_LOAD_TEXT 2\n.dw VAR_HEALTH\n.dw VAR_COINS\n.asciz \"Health %D2 Coins %D2\"\nVM_DISPLAY_TEXT"
       },
       "id": "52d6fc15-e37c-4df4-83fe-2b4e17d69cde"
     }

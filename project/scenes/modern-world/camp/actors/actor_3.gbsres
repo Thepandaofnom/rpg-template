@@ -18,6 +18,13 @@
   "symbol": "actor_11",
   "script": [
     {
+      "command": "EVENT_DIALOGUE_CLOSE_NONMODAL",
+      "args": {
+        "speed": -3
+      },
+      "id": "4f75588b-3bbb-441b-ae80-5f7b478cc0c0"
+    },
+    {
       "command": "EVENT_TEXT",
       "args": {
         "text": [
@@ -149,6 +156,13 @@
         "closeDelayFrames": 30
       },
       "id": "00009cea-4469-437a-ba18-3d9b0cda9ffa"
+    },
+    {
+      "command": "EVENT_DIALOGUE_CLOSE_NONMODAL",
+      "args": {
+        "speed": -3
+      },
+      "id": "471b92a3-1142-4835-8a96-0f8bd3e39324"
     }
   ],
   "startScript": [],

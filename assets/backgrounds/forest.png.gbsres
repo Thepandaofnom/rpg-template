@@ -3,7 +3,7 @@
   "id": "befeb6c0-2402-4a6a-96c7-8d89c4078657",
   "name": "forest",
   "symbol": "bg_forest",
-  "tileColors": "0121c+",
+  "tileColors": "0171+00!01c+00!0133+00!011a+00!0148+00!0128+00!011f+00!012+00!0114+00!018+00!0115+00!0185+",
   "filename": "forest.png",
   "width": 30,
   "height": 18,

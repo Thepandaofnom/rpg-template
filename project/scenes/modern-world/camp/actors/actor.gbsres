@@ -18,6 +18,13 @@
   "symbol": "actor_9",
   "script": [
     {
+      "command": "EVENT_DIALOGUE_CLOSE_NONMODAL",
+      "args": {
+        "speed": -3
+      },
+      "id": "208cff3e-f049-439a-bfef-fd02789fec64"
+    },
+    {
       "command": "EVENT_IF",
       "args": {
         "condition": {
@@ -98,6 +105,13 @@
         "closeDelayFrames": 30
       },
       "id": "69b16592-84a5-4488-acc3-7cecd8d68d27"
+    },
+    {
+      "command": "EVENT_DIALOGUE_CLOSE_NONMODAL",
+      "args": {
+        "speed": -3
+      },
+      "id": "d09c1fd5-9e0e-49aa-8dbc-6021a8dbe1a0"
     }
   ],
   "startScript": [
@@ -117,7 +131,7 @@
   "hit2Script": [],
   "hit3Script": [],
   "coordinateType": "tiles",
-  "x": 16,
-  "y": 15,
+  "x": 14,
+  "y": 14,
   "_index": 0
 }

@@ -18,6 +18,14 @@
   "symbol": "actor_10",
   "script": [
     {
+      "command": "EVENT_DIALOGUE_CLOSE_NONMODAL",
+      "args": {
+        "speed": -3,
+        "__collapse": false
+      },
+      "id": "a6fb06f2-95f4-459f-a722-2c24e5038ab5"
+    },
+    {
       "command": "EVENT_TEXT",
       "args": {
         "text": [
@@ -121,6 +129,13 @@
         ]
       },
       "id": "7a4d7e89-d973-47fd-b07d-d51fd0b2deb2"
+    },
+    {
+      "command": "EVENT_DIALOGUE_CLOSE_NONMODAL",
+      "args": {
+        "speed": -3
+      },
+      "id": "7cce4475-91ed-4716-81b5-f116d124f1ac"
     }
   ],
   "startScript": [],
@@ -129,7 +144,7 @@
   "hit2Script": [],
   "hit3Script": [],
   "coordinateType": "tiles",
-  "x": 9,
-  "y": 13,
+  "x": 42,
+  "y": 37,
   "_index": 1
 }
